@@ -53,7 +53,7 @@ class HomeController extends Controller
 
         imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
 
-        $text = "Hồng Quang";
+        $text = $request->get("name");
         $color = imagecolorallocate($newImage, 0, 0, 0);
         $x = 520;
         $y = 410;
@@ -61,11 +61,11 @@ class HomeController extends Controller
 
         imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
 
+
         imagepng($newImage, public_path('uploads/image/'.str_slug($text).'.png'));
 
-        dd($newImage);
 
-//        return response()->download(public_path('upload/image/a.png'));
+        return response()->download(public_path('uploads/image/'.str_slug($text).'.png'));
 
     }
 
