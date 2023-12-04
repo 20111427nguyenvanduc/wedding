@@ -55,7 +55,7 @@ class HomeController extends Controller
 
         $text = "Hồng Quang";
         $color = imagecolorallocate($newImage, 0, 0, 0);
-        $x = 600;
+        $x = 550;
         $y = 400;
         $font = public_path('assets/fonts/arial.ttf');
 
