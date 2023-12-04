@@ -14,7 +14,7 @@
                             <span class="d-block d-sm-inline" data-animation-direction="from-right"
                                   data-animation-delay="300">Thái Sơn</span>
                             <br>
-                            <i class="fa fa-heart" style="color: #e67e7e; font-size: 50px; margin-bottom:16px"></i>
+                            <img height="100" src="https://andu-ducduy.iwedding.info/album/heart.gif">
                             <br>
                             <span class="d-block d-sm-inline" data-animation-direction="from-left"
                                   data-animation-delay="300">Khánh Huyền</span>
@@ -284,7 +284,8 @@
 
                         <div class="invite_info px-2 px-lg-4">
                             <h2 class="fs-1">Thái Sơn <br>
-                                <small>&</small><br>
+                                <img height="50" src="https://andu-ducduy.iwedding.info/album/heart.gif">
+                                <br>
                                 Khánh Huyền
                             </h2>
 
@@ -405,25 +406,25 @@
     </section>
     <!-- END GALLERY SECTION -->
 
-    <section id="invitation" class="parallax-background bg-color-overlay padding-divider-top"
-             style="background-image: url(https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/templates/644000ba4f8e0c7ddf09c709/8d48609ea73a7ec0e74392df8deeddcb.jpg);">
-        <div class="section-divider-top-1 off-section"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h1 class="section-title light">Xem video cưới của chúng tôi!</h1>
-                </div>
-            </div>
+    {{--<section id="invitation" class="parallax-background bg-color-overlay padding-divider-top"--}}
+             {{--style="background-image: url(https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/templates/644000ba4f8e0c7ddf09c709/8d48609ea73a7ec0e74392df8deeddcb.jpg);">--}}
+        {{--<div class="section-divider-top-1 off-section"></div>--}}
+        {{--<div class="container">--}}
+            {{--<div class="row">--}}
+                {{--<div class="col-sm-12">--}}
+                    {{--<h1 class="section-title light">Xem video cưới của chúng tôi!</h1>--}}
+                {{--</div>--}}
+            {{--</div>--}}
 
-            <div class="invite neela-style" data-animation-direction="from-left" data-animation-delay="100">
-                <div class="ratio ratio-16x9">
-                    <!--<iframe class="border border-5 border-white w-100 h-100" style="border-width: 10px!important;"-->
-                    <!--src="https://www.youtube.com/embed/XT6Cyc3WJQ0?si=80fwRgY6rqm7kOPq"-->
-                    <!--allowfullscreen></iframe>-->
-                </div>
-            </div>
-        </div>
-    </section>
+            {{--<div class="invite neela-style" data-animation-direction="from-left" data-animation-delay="100">--}}
+                {{--<div class="ratio ratio-16x9">--}}
+                    {{--<!--<iframe class="border border-5 border-white w-100 h-100" style="border-width: 10px!important;"-->--}}
+                    {{--<!--src="https://www.youtube.com/embed/XT6Cyc3WJQ0?si=80fwRgY6rqm7kOPq"-->--}}
+                    {{--<!--allowfullscreen></iframe>-->--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</section>--}}
 
     <!-- BEGIN WEDDING GIFTS SECTION -->
     <div id="events"></div>
