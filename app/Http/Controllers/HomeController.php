@@ -44,25 +44,35 @@ class HomeController extends Controller
 
     public function thiepMoi(Request $request)
     {
-        $originalImage = imagecreatefromjpeg(public_path("banner.jpg"));
 
-        $width = imagesx($originalImage);
-        $height = imagesy($originalImage);
+        if($request->has('name') && $request->get('name') != ''){
+            $originalImage = imagecreatefromjpeg(public_path("banner.jpg"));
 
-        $newImage = imagecreatetruecolor($width, $height);
+            $width = imagesx($originalImage);
+            $height = imagesy($originalImage);
 
-        imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
+            $newImage = imagecreatetruecolor($width, $height);
 
-        $text = $request->get("name");
-        $color = imagecolorallocate($newImage, 0, 0, 0);
-        $x = 520;
-        $y = 410;
-        $font = public_path('assets/fonts/arial.ttf');
+            imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
 
-        imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
+            $text = $request->get("name");
+            $color = imagecolorallocate($newImage, 1, 3, 4);
+
+            $x = 520;
+            $y = 410;
+            $font = public_path('assets/fonts/arial.ttf');
+
+            imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
 
 
-        imagepng($newImage, public_path('uploads/image/'.str_slug($text).'.png'));
+            imagepng($newImage, public_path('uploads/image/'.str_slug($text).'.png'));
+
+            $this->views['invitation'] = '/uploads/image/'.str_slug($text).'.png';
+        }else{
+            $this->views['invitation'] = '/banner.jpg';
+        }
+
+        return view('category.invitation', $this->views);
 
 
         return response()->download(public_path('uploads/image/'.str_slug($text).'.png'));
