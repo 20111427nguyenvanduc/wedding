@@ -65,17 +65,14 @@ class HomeController extends Controller
             imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
 
 
-            imagepng($newImage, public_path('uploads/image/'.str_slug($text).'.png'));
+            imagepng($newImage, public_path('uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png'));
 
-            $this->views['invitation'] = '/uploads/image/'.str_slug($text).'.png';
+            $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png';
         }else{
             $this->views['invitation'] = '/banner.jpg';
         }
 
         return view('category.invitation', $this->views);
-
-
-        return response()->download(public_path('uploads/image/'.str_slug($text).'.png'));
 
     }
 
