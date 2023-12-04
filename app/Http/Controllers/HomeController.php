@@ -32,6 +32,14 @@ class HomeController extends Controller
 
     }
 
+    public function album()
+    {
+        $this->views['title'] = "TS&KH";
+
+        return view('category.photoAlbum', $this->views);
+
+    }
+
     public function wish(Request $request)
     {
 

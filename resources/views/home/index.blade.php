@@ -320,10 +320,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h1 class="section-title">Album Hình Cưới</h1>
-                    <!--<div class="center m-0 mt-2 mb-2">-->
-                    <!--    <a href="./photo-album" target="_blank" class="btn btn-primary px-2" style="min-width:240px;max-width:240px;">Xem album</a>-->
-                    <!--</div>-->
+                    <h1 class="section-title" style="margin-bottom: 30px">Album Hình Cưới</h1>
+                    <div class="center m-0 mb-5"><a href="/photo-album" target="_blank" class="btn btn-primary px-2" style="min-width:240px;max-width:240px;">Xem album</a>
+                    </div>
                 </div>
             </div>
         </div>

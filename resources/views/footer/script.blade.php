@@ -10,9 +10,9 @@
         templatePremium: ('1' === '1'),
         themeRoot: '/template',
         webroot: '',
-        coreSite: 'https://biihappy.com',
-        webToken: '6567375dfe5105115a07a128',
-        isPremium: ('1' === '1'),
+        // coreSite: 'https://biihappy.com',
+        // webToken: '6567375dfe5105115a07a128',
+        // isPremium: ('1' === '1'),
         bgMusic: 'https://cdn.biihappy.com/ziiweb/wedding-musics/BeautifulInWhite-ShaneFilan-524801.mp3',
         alert: JSON.parse('[]'),
         effect: JSON.parse('{\"type\":\"heart\"}')
