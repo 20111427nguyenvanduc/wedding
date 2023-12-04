@@ -15,4 +15,6 @@ Route::get('/', 'HomeController@index')->name('home');
 
 Route::get('/photo-album', 'HomeController@album')->name('album');
 
+Route::get('/thiep-moi', 'HomeController@thiepMoi')->name('thiepMoi');
+
 Route::post('/wish', 'HomeController@wish')->name('wish');

@@ -22,6 +22,12 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
+    public $text = "VS";
+
+    public $img_bg = 'assets/img/club/background.png';
+
+
     public function index()
     {
         $this->views['title'] = "TS&KH";
@@ -38,6 +44,11 @@ class HomeController extends Controller
 
         return view('category.photoAlbum', $this->views);
 
+    }
+
+    public function thiepMoi(Request $request){
+
+        $background = file_get_image_background($this->img_bg);
     }
 
     public function wish(Request $request)

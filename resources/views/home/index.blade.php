@@ -51,7 +51,7 @@
                 <div class="element col-md-6 col-xl-4 offset-xl-2" data-animation-direction="from-left"
                      data-animation-delay="300">
                     <div class="image">
-                        <img src="https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/311149113_485920020231564_3469123922645748464_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=CazGlS4u7ekAX9EM-rx&_nc_ht=scontent.fhan19-1.fna&oh=00_AfCIreDIqNS6dM9wnRo6Yit2k8hvnVwPSYYBOhoZLREnJw&oe=656CD5E1"
+                        <img src="https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/311149113_485920020231564_3469123922645748464_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=8LOo3xw6-88AX_QljBc&_nc_ht=scontent.fhan19-1.fna&oh=00_AfAhuVBJr10WsbeJYP4HZtSPlC364QHYKzE7ZuO874qwUw&oe=6572C4A1"
                              alt="" style="height: 550px; width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
