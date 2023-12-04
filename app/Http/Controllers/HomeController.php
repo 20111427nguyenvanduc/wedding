@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Wish;
 use Illuminate\Http\Request;
+use Image;
 
 class HomeController extends Controller
 {
@@ -23,16 +24,11 @@ class HomeController extends Controller
      * @return \Illuminate\Http\Response
      */
 
-    public $text = "VS";
-
-    public $img_bg = 'assets/img/club/background.png';
-
-
     public function index()
     {
         $this->views['title'] = "TS&KH";
 
-        $this->views['wishs'] =  Wish::orderBy('created_at','DESC')->take(10)->get();
+        $this->views['wishs'] = Wish::orderBy('created_at', 'DESC')->take(10)->get();
 
         return view('home.index', $this->views);
 
@@ -46,9 +42,37 @@ class HomeController extends Controller
 
     }
 
-    public function thiepMoi(Request $request){
+    public function thiepMoi(Request $request)
+    {
+        $originalImage = imagecreatefromjpeg(public_path("banner.jpg"));
 
-        $background = file_get_image_background($this->img_bg);
+        $width = imagesx($originalImage);
+        $height = imagesy($originalImage);
+
+        $newImage = imagecreatetruecolor($width, $height);
+
+        imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
+
+        $text = "Hồng Quang";
+//        $color = imagecolorallocate($newImage, 0, 0, 0);
+//        $x = 20;
+//        $y = 20;
+
+        // Insert text to the image
+       // imagestring($newImage, 5, $x, $y, $text, $color);
+
+        $font = public_path('assets/fonts/arial.ttf');
+
+        $textcolor =imagecolorallocate($newImage, 0, 0, 0);
+
+        imagettftext($newImage, 45, 0, 300, 210, $textcolor, $font, $text);
+
+        imagepng($newImage, public_path('uploads/image/b.png'));
+
+        dd($newImage);
+
+//        return response()->download(public_path('upload/image/a.png'));
+
     }
 
     public function wish(Request $request)
