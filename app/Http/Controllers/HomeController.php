@@ -54,20 +54,14 @@ class HomeController extends Controller
         imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
 
         $text = "Hồng Quang";
-//        $color = imagecolorallocate($newImage, 0, 0, 0);
-//        $x = 20;
-//        $y = 20;
-
-        // Insert text to the image
-       // imagestring($newImage, 5, $x, $y, $text, $color);
-
+        $color = imagecolorallocate($newImage, 0, 0, 0);
+        $x = 600;
+        $y = 600;
         $font = public_path('assets/fonts/arial.ttf');
 
-        $textcolor =imagecolorallocate($newImage, 0, 0, 0);
+        imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
 
-        imagettftext($newImage, 45, 0, 300, 210, $textcolor, $font, $text);
-
-        imagepng($newImage, public_path('uploads/image/b.png'));
+        imagepng($newImage, public_path('uploads/image/'.str_slug($text).'.png'));
 
         dd($newImage);
 
