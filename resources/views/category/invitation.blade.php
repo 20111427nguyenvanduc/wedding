@@ -24,7 +24,7 @@
                             <div class="center m-0 mb-5">
                                 <a href="{{$invitation}}" target="_blank"
                                    class="btn btn-primary px-2"
-                                   style="min-width:240px;max-width:240px;">Xem link thiệp</a>
+                                   style="min-width:240px;max-width:240px;">Xem thiệp mời</a>
                             </div>
                         </div>
                     </div>
