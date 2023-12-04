@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -33,8 +32,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Marmelad&amp;family=Oooh+Baby&amp;family=Bellota+Text&amp;display=swap"
-          rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Marmelad&amp;family=Oooh+Baby&amp;family=Bellota+Text&amp;display=swap"
+        rel="stylesheet">
 
     <link href="/template/css/bootstrap.min.css?v=202311195"
           rel="stylesheet"/>
@@ -75,21 +75,20 @@
 
     <!-- BEGIN HEADER -->
 @include('header.index')
-    <!-- END HEADER -->
+<!-- END HEADER -->
 @yield('content')
 
-
-
-    <!-- BEGIN FOOTER -->
-    @include("footer.index")
-    <!-- END FOOTER -->
+<!-- BEGIN FOOTER -->
+@include("footer.index")
+<!-- END FOOTER -->
 
 </div>
 <!-- END WRAPPER -->
 
-@yield('content')
+@yield('script')
 
 @include("footer.script")
+
 </body>
 
 </html>
