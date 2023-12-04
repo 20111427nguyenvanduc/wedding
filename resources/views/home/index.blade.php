@@ -295,11 +295,7 @@
                                 <a href="#rsvp" class="btn btn-primary reverse scrollto text-white px-2"
                                    style="min-width:240px;max-width:240px;">Gửi lời chúc</a>
                             </div>
-                            <div class="center m-0">
-                                <a href="https://forms.office.com/r/6ctcyU421L" target="_blank"
-                                   class="btn btn-primary reverse text-white px-2 mt-2"
-                                   style="min-width:240px;max-width:240px;">Xác nhận tham dự</a>
-                            </div>
+
                             <div class="date">14 Tháng 1 2024</div>
                             <div class="count-down-clock">
                                 <div id="clock" data-date="2024-01-14" data-text-day="Ngày" data-text-hour="Giờ"
