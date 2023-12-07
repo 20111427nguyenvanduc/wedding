@@ -114,7 +114,7 @@
 
                         <div class="parent-infos">
                             <div class="parent-info"><span class="parent-title">Con ông:</span> <span
-                                    class="parent-name">Nguyễn Quang Hiệp</span></div>
+                                    class="parent-name">Nguyễn Văn Hiệp</span></div>
 
                             <div class="parent-info"><span class="parent-title">Con bà:</span> <span
                                     class="parent-name">Nguyễn Thị Hằng</span></div>
@@ -615,7 +615,7 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến cô dâu</h4>
                                     <img class=" m-auto mb-2"
-                                         src="/template/images/thaisonbank.jpg">
+                                         src="/template/images/khanhhuyenbank.jpg">
                                     <p>Ngân hàng: <strong>CAKE BY VPBANK</strong></p>
                                     <p>Tên tài khoản: <strong>Nguyễn Thị Khánh Huyền</strong></p>
                                     <p>Số tài khoản: <strong>0989978608</strong></p>
