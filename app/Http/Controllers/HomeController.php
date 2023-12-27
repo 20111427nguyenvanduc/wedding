@@ -47,7 +47,15 @@ class HomeController extends Controller
     {
 
         if ($request->has('name') && $request->get('name') != '') {
-            $originalImage = imagecreatefrompng(public_path("thiepmoi1.png"));
+
+            if ($request->has('type') && $request->get('type') != ''){
+                $banner= $request->get('type');
+            }else{
+                $banner= 'thiepmoi1.png';
+
+            }
+
+            $originalImage = imagecreatefrompng(public_path($banner));
 
             $width = imagesx($originalImage);
             $height = imagesy($originalImage);
