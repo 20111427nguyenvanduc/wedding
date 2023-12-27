@@ -67,7 +67,7 @@ class HomeController extends Controller
 
             $bbox = imagettfbbox(45, 0, $font, $text);
 
-            $x = $bbox[0] + (imagesx($newImage) / 3) - ($bbox[4] / 2) + 120;
+            $x = $bbox[0] + (imagesx($newImage) / 3) - ($bbox[4] / 2) + 10;
 
 //            $y = $bbox[1] + (imagesy($newImage) / 2) - ($bbox[5] / 2) - 5;
 
