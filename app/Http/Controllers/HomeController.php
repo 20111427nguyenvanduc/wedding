@@ -53,6 +53,7 @@ class HomeController extends Controller
 
             $newImage = imagecreatetruecolor($width, $height);
 
+
             imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
 
             $text = $request->get("name");
@@ -64,6 +65,7 @@ class HomeController extends Controller
 
             imagettftext($newImage, 150, 0, $x, $y, $color, $font, $text);
 
+            imagesavealpha($newImage, true);
 
             imagepng($newImage, public_path('uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png'));
 
