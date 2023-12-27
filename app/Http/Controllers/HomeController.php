@@ -63,7 +63,7 @@ class HomeController extends Controller
             $y = 1010;
             $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
 
-            imagettftext($newImage, 150, 0, $x, $y, $color, $font, $text);
+            imagettftext($newImage, 170, 0, $x, $y, $color, $font, $text);
 
             imagesavealpha($newImage, true);
 
