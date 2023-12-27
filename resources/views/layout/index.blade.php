@@ -74,7 +74,6 @@
 <div id="wrapper">
 
     <!-- BEGIN HEADER -->
-@include('header.index')
 <!-- END HEADER -->
 @yield('content')
 
