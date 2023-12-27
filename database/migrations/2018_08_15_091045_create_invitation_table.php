@@ -18,7 +18,7 @@ class CreateInvitationTable extends Migration
         Schema::create('invitation', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name');
-            $table->string('phone')->nullable();
+            $table->string('image')->nullable();
             $table->text('body')->nullable();
             $table->timestamps();
         });

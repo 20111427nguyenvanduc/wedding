@@ -3,7 +3,7 @@
 @section("header")
 @section('title',  $invitation->name )
 @section('description',   $invitation->name )
-@section('image',  $invitation->phone )
+@section('image',  $invitation->image )
 @endsection
 
 @section('content')
@@ -11,7 +11,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img src="{{$invitation->phone}}" alt="">
+                    <img src="{{$invitation->image}}" alt="">
                 </div>
             </div>
         </div>

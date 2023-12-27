@@ -80,13 +80,14 @@ class HomeController extends Controller
 
             $invitation = new Invitation();
             $invitation->name = "Thiệp mời " . $text;
-            $invitation->phone = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
+            $invitation->image = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
             $invitation->save();
 
             $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
             $this->views['link'] = '/thiep-moi/' . $invitation->id;
         } else {
             $this->views['invitation'] = '/thiepmoi1.png';
+            $this->views['link'] = '/thiep-moi/';
         }
 
         return view('category.invitation', $this->views);
