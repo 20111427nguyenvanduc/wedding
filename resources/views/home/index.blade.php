@@ -496,7 +496,7 @@
                                     <div class="d-inline-block">
                                         <h3 class="w-100">LỄ VU QUY TẠI NHÀ GÁI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>10:00 14/01/2024</strong></p>
+                                            <strong>15:30 14/01/2024</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
                                             <strong>Khu Quế Sơn, Phường Khắc Niệm, TP Bắc Ninh, Bắc Ninh</strong></p>
                                     </div>
