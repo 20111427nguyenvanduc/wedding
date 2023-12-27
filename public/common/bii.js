@@ -164,10 +164,10 @@ if(!biicore.isPremium && !biicore.templatePremium) {
 	}, 8000);
 	setTimeout(function(){
 		document.getElementsByClassName("bii-logo")[0].classList.remove("show-sec");
-	}, 11000);
+	}, 17000);
 	setTimeout(function(){
 		document.getElementsByClassName("bii-logo")[0].classList.add("show-sec");
-	}, 25000);
+	}, 30000);
 	var biiLogo = biicore.webroot + '/common/imgs/bii.png'
 	var currentYear = new Date().getFullYear();
 	document.write(`
