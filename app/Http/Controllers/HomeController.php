@@ -48,10 +48,10 @@ class HomeController extends Controller
 
         if ($request->has('name') && $request->get('name') != '') {
 
-            if ($request->has('type') && $request->get('type') != '') {
-                $banner = $request->get('type');
-            } else {
-                $banner = 'thiepmoi1.png';
+            if ($request->has('type') && $request->get('type') != ''){
+                $banner= $request->get('type');
+            }else{
+                $banner= 'thiepmoi1.png';
 
             }
 
@@ -90,7 +90,7 @@ class HomeController extends Controller
             $invitation->name = "Thiệp mời " . $text;
             $invitation->image = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
             $invitation->save();
-            $invitation->body = "thiep-moi-" . str_slug($text) . '-' . $invitation->id;
+            $invitation->body = $invitation->id . "-thiep-moi-" . str_slug($text);
             $invitation->save();
 
             $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
@@ -104,9 +104,9 @@ class HomeController extends Controller
 
     }
 
-    public function thiepMoiDetail($slug)
+    public function thiepMoiDetail($id,$slug)
     {
-        $i = Invitation::where('body', 'thiep-moi-' . $slug)->first();
+        $i = Invitation::find($id);
         if (!$i) {
             return redirect('/');
         }

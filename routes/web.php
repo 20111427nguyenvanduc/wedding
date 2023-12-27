@@ -17,6 +17,6 @@ Route::get('/photo-album', 'HomeController@album')->name('album');
 
 Route::get('/thiep-moi', 'HomeController@thiepMoi')->name('thiepMoi');
 
-Route::get('/thiep-moi-{slug}', 'HomeController@thiepMoiDetail')->name('thiepMoiDetail');
+Route::get('/{id}-thiep-moi-{slug}', 'HomeController@thiepMoiDetail')->name('thiepMoiDetail');
 
 Route::post('/wish', 'HomeController@wish')->name('wish');
