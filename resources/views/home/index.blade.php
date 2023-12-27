@@ -597,7 +597,7 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến chú rể</h4>
                                     <img class="m-auto mb-2"
-                                         src="/template/images/thaisonbank.jpg">
+                                         src="/template/images/thaisonbank.png">
                                     <p>Ngân hàng: <strong>CAKE BY VPBANK</strong></p>
                                     <p>Tên tài khoản: <strong>Ngô Thái Sơn</strong></p>
                                     <p>Số tài khoản: <strong>0966717874</strong></p>
@@ -616,7 +616,7 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến cô dâu</h4>
                                     <img class=" m-auto mb-2"
-                                         src="/template/images/khanhhuyenbank.jpg">
+                                         src="/template/images/khanhhuyenbank.png">
                                     <p>Ngân hàng: <strong>CAKE BY VPBANK</strong></p>
                                     <p>Tên tài khoản: <strong>Nguyễn Thị Khánh Huyền</strong></p>
                                     <p>Số tài khoản: <strong>0989978608</strong></p>
