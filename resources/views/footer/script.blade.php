@@ -24,5 +24,5 @@
 <script src="/template/js/scripts.js?v=202311195"></script>
 <script src="/template/js/template.settings.js?v=202311195"></script>
 <script src="/common/calendar.js?v=202311195"></script>
-<script src="/common/bii.js?v=20231115"></script>
+<script src="/common/bii.js?v=2023115"></script>
 <script type="text/javascript"></script>
