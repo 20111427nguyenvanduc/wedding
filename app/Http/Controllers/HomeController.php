@@ -63,7 +63,7 @@ class HomeController extends Controller
 
 
             $x = 3000;
-            $y = 250;
+            $y = 270;
             $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
 
             $bbox = imagettfbbox(45, 0, $font, $text);
