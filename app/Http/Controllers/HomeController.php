@@ -58,11 +58,11 @@ class HomeController extends Controller
             $text = $request->get("name");
             $color = imagecolorallocate($newImage, 1, 3, 4);
 
-            $x = 2020;
+            $x = 2520;
             $y = 1010;
             $font = public_path('assets/be-vietnam/BeVietnam-Bold.ttf');
 
-            imagettftext($newImage, 120, 0, $x, $y, $color, $font, $text);
+            imagettftext($newImage, 150, 0, $x, $y, $color, $font, $text);
 
 
             imagepng($newImage, public_path('uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png'));
