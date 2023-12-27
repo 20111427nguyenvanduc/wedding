@@ -7,7 +7,7 @@
 @endsection
 
 @section('content')
-    <section id="rsvp" class="section-bg-color extra-padding-section">
+    <section id="rsvp" class="section-bg-color">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
