@@ -448,9 +448,9 @@
                                          alt="TIỆC CƯỚI NHÀ TRAI" width="100" height="100"
                                          class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
-                                        <h3 class="w-100">TIỆC CƯỚI NHÀ TRAI</h3>
+                                        <h3 class="w-100">LỄ THÀNH HÔN TẠI NHÀ TRAI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>10:00 14/01/2024</strong></p>
+                                            <strong>16:00 14/01/2024</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
                                             <strong>Thôn Chi Trung, Xã Tân Chi, Huyện Tiên Du, Bắc Ninh</strong></p>
                                     </div>
@@ -460,13 +460,13 @@
                                     <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                         <div class="atcb" style="display:none;">
                                             {
-                                            "name":"TIỆC CƯỚI NHÀ TRAI (Đám cưới Thái Sơn và Khánh Huyền)",
+                                            "name":"LỄ THÀNH HÔN TẠI NHÀ TRAI (Đám cưới Thái Sơn và Khánh Huyền)",
                                             "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!.
                                             Thông tin chi tiết xem tại website:<br>[url]./[/url]",
                                             "startDate":"2024-01-14",
                                             "endDate":"2024-01-14",
-                                            "startTime":"10:00",
-                                            "endTime":"10:00",
+                                            "startTime":"16:00",
+                                            "endTime":"17:00",
                                             "location":"Thôn Chi Trung, Xã Tân Chi, Huyện Tiên Du, Bắc Ninh",
                                             "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                             "timeZone":"Asia/Ho_Chi_Minh",
@@ -493,7 +493,7 @@
                                          alt="LỄ CƯỚI NHÀ NAM" width="100" height="100"
                                          class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
-                                        <h3 class="w-100">LỄ CƯỚI NHÀ GÁI</h3>
+                                        <h3 class="w-100">LỄ VU QUY TẠI NHÀ GÁI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
                                             <strong>10:00 14/01/2024</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
@@ -505,13 +505,13 @@
                                     <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                         <div class="atcb" style="display:none;">
                                             {
-                                            "name":"LỄ CƯỚI NHÀ GÁI (Đám cưới Thái Sơn và Khánh Huyền)",
+                                            "name":"LỄ VU QUY TẠI NHÀ GÁI (Đám cưới Thái Sơn và Khánh Huyền)",
                                             "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!.
                                             Thông tin chi tiết xem tại website:<br>[url]./[/url]",
                                             "startDate":"2024-01-14",
                                             "endDate":"2024-01-14",
-                                            "startTime":"11:00",
-                                            "endTime":"11:00",
+                                            "startTime":"15:30",
+                                            "endTime":"16:00",
                                             "location":"Khu Quế Sơn, Phường Khắc Niệm, TP Bắc Ninh, Bắc Ninh",
                                             "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                             "timeZone":"Asia/Ho_Chi_Minh",
