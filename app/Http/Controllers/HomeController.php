@@ -59,9 +59,20 @@ class HomeController extends Controller
             $text = $request->get("name");
             $color = imagecolorallocate($newImage, 249, 217, 80);
 
+
+
+
             $x = 3000;
             $y = 1010;
             $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
+
+            $size = imagettfbbox(170, 0, $font, $text);
+
+            dd($size);
+
+            $xsize = abs($size[0]) + abs($size[2]);
+
+            $ysize = abs($size[5]) + abs($size[1]);
 
             imagettftext($newImage, 170, 0, $x, $y, $color, $font, $text);
 
