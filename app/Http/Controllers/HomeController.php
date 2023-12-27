@@ -81,7 +81,8 @@ class HomeController extends Controller
             $invitation = new Invitation();
             $invitation->name = "Thiệp mời " . $text;
             $invitation->image = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
-            $invitation->body = "thiep-moi-" . str_slug($text);
+            $invitation->save();
+            $invitation->body = $invitation->id . "-thiep-moi-" . str_slug($text);
             $invitation->save();
 
             $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
@@ -97,8 +98,8 @@ class HomeController extends Controller
 
     public function thiepMoiDetail($slug)
     {
-        $i = Invitation::where('body','thiep-moi-'.$slug)->first();
-        if(!$i){
+        $i = Invitation::where('body', 'thiep-moi-' . $slug)->first();
+        if (!$i) {
             return redirect('/');
         }
         $this->views['invitation'] = $i;
