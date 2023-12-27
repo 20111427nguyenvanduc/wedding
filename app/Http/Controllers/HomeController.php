@@ -58,9 +58,9 @@ class HomeController extends Controller
             $text = $request->get("name");
             $color = imagecolorallocate($newImage, 1, 3, 4);
 
-            $x = 520;
-            $y = 410;
-            $font = public_path('assets/be-vietnam/BeVietnam-Italic.ttf');
+            $x = 1020;
+            $y = 1010;
+            $font = public_path('assets/be-vietnam/BeVietnam-Bold.ttf');
 
             imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
 
@@ -69,7 +69,7 @@ class HomeController extends Controller
 
             $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png';
         }else{
-            $this->views['invitation'] = '/banner.jpg';
+            $this->views['invitation'] = '/thiepmoi.png';
         }
 
         return view('category.invitation', $this->views);
