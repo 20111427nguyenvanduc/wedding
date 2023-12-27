@@ -57,11 +57,11 @@ class HomeController extends Controller
             imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
 
             $text = $request->get("name");
-            $color = imagecolorallocate($newImage, 1, 3, 4);
+            $color = imagecolorallocate($newImage, 90, 74, 66);
 
-            $x = 2520;
+            $x = 3000;
             $y = 1010;
-            $font = public_path('assets/be-vietnam/BeVietnam-Bold.ttf');
+            $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
 
             imagettftext($newImage, 150, 0, $x, $y, $color, $font, $text);
 
