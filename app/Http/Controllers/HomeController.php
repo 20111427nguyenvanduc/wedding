@@ -46,7 +46,7 @@ class HomeController extends Controller
     {
 
         if($request->has('name') && $request->get('name') != ''){
-            $originalImage = imagecreatefromjpeg(public_path("banner.jpg"));
+            $originalImage = imagecreatefrompng(public_path("thiepmoi.png"));
 
             $width = imagesx($originalImage);
             $height = imagesy($originalImage);
@@ -60,7 +60,7 @@ class HomeController extends Controller
 
             $x = 520;
             $y = 410;
-            $font = public_path('assets/fonts/arial.ttf');
+            $font = public_path('assets/be-vietnam/BeVietnam-Italic.ttf');
 
             imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
 
