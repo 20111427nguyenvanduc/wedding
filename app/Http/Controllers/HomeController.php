@@ -57,7 +57,7 @@ class HomeController extends Controller
             imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
 
             $text = $request->get("name");
-            $color = imagecolorallocate($newImage, 249, 127, 80);
+            $color = imagecolorallocate($newImage, 249, 217, 80);
 
             $x = 3000;
             $y = 1010;
