@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Invitation;
 use App\Models\Wish;
 use Illuminate\Http\Request;
 use Image;
@@ -45,35 +46,72 @@ class HomeController extends Controller
     public function thiepMoi(Request $request)
     {
 
-        if($request->has('name') && $request->get('name') != ''){
-            $originalImage = imagecreatefromjpeg(public_path("banner.jpg"));
+        if ($request->has('name') && $request->get('name') != '') {
+
+            if ($request->has('type') && $request->get('type') != ''){
+                $banner= $request->get('type');
+            }else{
+                $banner= 'thiepmoi1.png';
+
+            }
+
+            $originalImage = imagecreatefrompng(public_path($banner));
 
             $width = imagesx($originalImage);
             $height = imagesy($originalImage);
 
             $newImage = imagecreatetruecolor($width, $height);
 
+
             imagecopy($newImage, $originalImage, 0, 0, 0, 0, $width, $height);
 
             $text = $request->get("name");
-            $color = imagecolorallocate($newImage, 1, 3, 4);
+            $color = imagecolorallocate($newImage, 196, 25, 38);
 
-            $x = 520;
-            $y = 410;
-            $font = public_path('assets/fonts/arial.ttf');
+
+            $x = 3000;
+            $y = 270;
+            $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
+
+            $bbox = imagettfbbox(45, 0, $font, $text);
+
+            $x = $bbox[0] + (imagesx($newImage) / 3) - ($bbox[4] / 2) - 230;
+
+//            $y = $bbox[1] + (imagesy($newImage) / 2) - ($bbox[5] / 2) - 5;
 
             imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
 
+            imagesavealpha($newImage, true);
 
-            imagepng($newImage, public_path('uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png'));
+            imagepng($newImage, public_path('uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png'));
 
-            $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png';
-        }else{
-            $this->views['invitation'] = '/banner.jpg';
+
+            $invitation = new Invitation();
+            $invitation->name = "Thiệp mời " . $text;
+            $invitation->image = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
+            $invitation->save();
+            $invitation->body = $invitation->id . "-thiep-moi-" . str_slug($text);
+            $invitation->save();
+
+            $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
+            $this->views['link'] = '/' . $invitation->body;
+        } else {
+            $this->views['invitation'] = '/thiepmoi1.png';
+            $this->views['link'] = '/thiep-moi/';
         }
 
         return view('category.invitation', $this->views);
 
+    }
+
+    public function thiepMoiDetail($id,$slug)
+    {
+        $i = Invitation::find($id);
+        if (!$i) {
+            return redirect('/');
+        }
+        $this->views['invitation'] = $i;
+        return view('category.invitationdetail', $this->views);
     }
 
     public function wish(Request $request)

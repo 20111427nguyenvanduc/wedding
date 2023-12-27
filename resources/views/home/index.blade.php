@@ -1,6 +1,7 @@
 @extends('layout.index')
 
 @section('content')
+    @include('header.index')
     <!-- BEGIN HERO SECTION -->
     <section id="hero" class="bg-slideshow section-divider-bottom-1">
         <div class="container">
