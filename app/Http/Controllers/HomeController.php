@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Invitation;
 use App\Models\Wish;
 use Illuminate\Http\Request;
 use Image;
@@ -45,8 +46,8 @@ class HomeController extends Controller
     public function thiepMoi(Request $request)
     {
 
-        if($request->has('name') && $request->get('name') != ''){
-            $originalImage = imagecreatefrompng(public_path("thiepmoi.png"));
+        if ($request->has('name') && $request->get('name') != '') {
+            $originalImage = imagecreatefrompng(public_path("thiepmoi1.png"));
 
             $width = imagesx($originalImage);
             $height = imagesy($originalImage);
@@ -58,8 +59,6 @@ class HomeController extends Controller
 
             $text = $request->get("name");
             $color = imagecolorallocate($newImage, 196, 25, 38);
-
-
 
 
             $x = 3000;
@@ -76,15 +75,32 @@ class HomeController extends Controller
 
             imagesavealpha($newImage, true);
 
-            imagepng($newImage, public_path('uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png'));
+            imagepng($newImage, public_path('uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png'));
 
-            $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-'.str_slug($text).'.png';
-        }else{
-            $this->views['invitation'] = '/thiepmoi.png';
+
+            $invitation = new Invitation();
+            $invitation->name = "Thiệp mời " . $text;
+            $invitation->phone = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
+            $invitation->save();
+
+            $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
+            $this->views['link'] = '/thiep-moi/' . $invitation->id;
+        } else {
+            $this->views['invitation'] = '/thiepmoi1.png';
         }
 
         return view('category.invitation', $this->views);
 
+    }
+
+    public function thiepMoiDetail($id)
+    {
+        $i = Invitation::find($id);
+        if(!$i){
+            return redirect('/');
+        }
+        $this->views['invitation'] = $i;
+        return view('category.invitationdetail', $this->views);
     }
 
     public function wish(Request $request)
