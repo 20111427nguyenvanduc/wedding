@@ -115,7 +115,7 @@ window.onload = (event) => {
                 minSize: 15,
                 maxSize: 32,
                 flakeCount: flakeCount,
-                maxSpeed: 3,
+                maxSpeed: 1,
                 minSpeed: 1
             });
         } else if (biicore.effect.type == 'snow') {
