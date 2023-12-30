@@ -149,7 +149,7 @@ window.onload = (event) => {
                 minSpeed: minSpeed
             });
         }
-    }, 1000);
+    }, 3000);
 };
 
 if (biicore.alert && Object.keys(biicore.alert).length > 0 && biicore.alert.status == 1) {
