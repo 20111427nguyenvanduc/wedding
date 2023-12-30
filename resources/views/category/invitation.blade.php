@@ -15,6 +15,7 @@
                                     <option selected value="thiepmoi1.png">Nhà Trai 16h</option>
                                     <option value="thiepmoi2.png">Nhà Gái</option>
                                     <option value="thiepmoi3.png">Nhà Trai 9h</option>
+                                    <option value="thiepmoi4.png">Nhà Trai 11h</option>
                                 </select>
                             </div>
 
