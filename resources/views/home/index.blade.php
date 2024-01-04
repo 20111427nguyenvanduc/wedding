@@ -453,7 +453,7 @@
                             <div class="neela-style">
                                 <div class="d-flex align-items-center event-item-content">
                                     <img
-                                        src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/54e5ba25092c799cb7c8d5dc34a3e5ca.jpeg"
+                                        src="/sonhuyen/23.jpg"
                                         alt="TIỆC CƯỚI NHÀ TRAI" width="100" height="100"
                                         class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
@@ -500,7 +500,7 @@
                             <div class="neela-style">
                                 <div class="d-flex align-items-center event-item-content">
                                     <img
-                                        src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/35e3a9e6af4c0f1742ab16a94cd141fa.jpeg"
+                                        src="/sonhuyen/22.jpg"
                                         alt="LỄ CƯỚI NHÀ NAM" width="100" height="100"
                                         class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
