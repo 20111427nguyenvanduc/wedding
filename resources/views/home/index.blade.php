@@ -302,86 +302,16 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="gallery-container gallery-fancybox masonry-gallery">
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740ae69d47b8ea009b67e/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740ae69d47b8ea009b67e/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740a18f3b80c4f90f96b4/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740a18f3b80c4f90f96b4/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740973a72193cbe0e87bd/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740973a72193cbe0e87bd/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/6567408fe8de17ed5b03db89/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/6567408fe8de17ed5b03db89/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/65674086295184c3840ea371/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/65674086295184c3840ea371/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740829c2b2b2e4800ca16/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740829c2b2b2e4800ca16/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740740d48f1a8570a8ee6/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740740d48f1a8570a8ee6/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740633a72193cbe0e87bc/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/656740633a72193cbe0e87bc/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/6567405c7b159de54901a626/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/6567405c7b159de54901a626/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/65674033304eb753b30a5417/large.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/galleries/65674033304eb753b30a5417/small.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
+                        @for($i= 1; $i< 11 ;$i++)
+                            <div class="grid grid-item">
+                                <a href="/sonhuyen/{{$i}}.jpg"
+                                   class="fancybox" data-fancybox-group="gall-{{$i}}">
+                                    <img
+                                        src="/sonhuyen/{{$i}}.jpg"
+                                        alt class="img img-responsive">
+                                </a>
+                            </div>
+                        @endfor
                     </div>
                 </div>
             </div>
