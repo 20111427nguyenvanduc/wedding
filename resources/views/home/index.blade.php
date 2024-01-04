@@ -133,7 +133,7 @@
     <section id="our-story-title"
              class="parallax-background bg-color-overlay section-divider-bottom-2 padding-divider-top"
 
-             style="background-image: url(/sonhuyen/26.jpg)">
+             style="background-image: url(/sonhuyen/26.jpg);background-position: center center;">
         <div class="section-divider-top-1 off-section"></div>
         <!-- The class "section-divider-top-1" can also be applied to the tag <section>. In this case, it was added on a new <div> because the tag <section> have all pseudo elements (::after and ::before) in use. -->
         <div class="container">
@@ -266,7 +266,7 @@
 
     <!-- BEGIN THE WEDDING SECTION -->
     <section id="invitation" class="parallax-background bg-color-overlay padding-divider-top section-divider-bottom-1"
-             style="background-image: url(/sonhuyen/32.jpg);">
+             style="background-image: url(/sonhuyen/32.jpg);background-position: center center;">
         <div class="section-divider-top-1 off-section"></div>
         <!-- The class "section-divider-top-1" can also be applied to the tag <section>. In this case, it was added on a new <div> because the tag <section> have all pseudo elements (::after and ::before) in use. -->
         <div class="container">
@@ -437,7 +437,7 @@
     <!-- BEGIN WEDDING GIFTS SECTION -->
     <div id="events"></div>
     <section id="giftregistry" class="parallax-background section-bg-color"
-             style="padding:135px 0; background-image: url(/sonhuyen/25.jpg);">
+             style="padding:135px 0; background-image: url(https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/templates/644000ba4f8e0c7ddf09c709/d2c1a0a9de2773a853210776e49d97d6.jpg);background-position: center center;">
         <div class="section-divider-top-4 off-section"></div>
         <div class="container">
             <div class="row">
