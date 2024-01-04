@@ -54,7 +54,7 @@
                     <div class="image">
                         <img
                             src="/sonhuyen/23.jpg"
-                            alt="" style="height: 550px; width: 100%"/>
+                            alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
                                 <h3>Ngô Thái Sơn
@@ -79,7 +79,7 @@
                     <div class="image">
                         <img
                             src="/sonhuyen/22.jpg"
-                            alt="" style="height: 550px; width: 100%"/>
+                            alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
                                 <h3>Nguyễn Thị Khánh Huyền
