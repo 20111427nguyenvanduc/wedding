@@ -153,7 +153,7 @@
                 <div class="col-md-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
                     <div class="timeline">
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">04/2022</span>
+                            <span class="neela-style">06/2014</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
@@ -162,8 +162,8 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/48643727997222f70fef6e7a11ecc08b.jpeg"
-                                            alt="Bắt đầu từ câu chuyện phá rank liên quân" class="w-100 h-auto"
+                                            src="/sonhuyen/anh3.jpg"
+                                            alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
                                 </div>
@@ -185,7 +185,7 @@
                         </div>
 
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">15/05/2022</span>
+                            <span class="neela-style">06/2016</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
@@ -194,8 +194,8 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/18cf27f0aabf83361b8edc11bc45fe74.jpeg"
-                                            alt="Câu chuyện con gà và hạt đỗ xanh" class="w-100 h-auto"
+                                            src="/sonhuyen/anh1.jpg"
+                                            alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
                                 </div>
@@ -217,7 +217,7 @@
                             </div>
                         </div>
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">15/05/2022</span>
+                            <span class="neela-style">10/2023</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
@@ -226,8 +226,8 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/18cf27f0aabf83361b8edc11bc45fe74.jpeg"
-                                            alt="Câu chuyện con gà và hạt đỗ xanh" class="w-100 h-auto"
+                                            src="/sonhuyen/anh2.jpg"
+                                            alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
                                 </div>
