@@ -302,16 +302,78 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="gallery-container gallery-fancybox masonry-gallery">
-                        @for($i= 1; $i< 11 ;$i++)
-                            <div class="grid grid-item">
-                                <a href="/sonhuyen/{{$i}}.jpg"
-                                   class="fancybox" data-fancybox-group="gall-{{$i}}">
-                                    <img
-                                        src="/sonhuyen/{{$i}}.jpg"
-                                        alt class="img img-responsive">
-                                </a>
-                            </div>
-                        @endfor
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/1.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/1.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/3.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/3.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/4.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/4.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/10.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/10.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/21.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/21.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/16.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/16.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/23.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/23.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/33.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/33.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/sonhuyen/29.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/sonhuyen/29.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
