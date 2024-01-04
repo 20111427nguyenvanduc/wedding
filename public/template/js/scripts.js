@@ -350,7 +350,9 @@ var Neela;
                     var e = u(this),
                         t = e.offset().top,
                         a = e.outerHeight();
-                    o.isInViewport(this) && (t = n - t, t = Math.round(t / a * 100), e.css("background-position", "center " + parseInt(-t * (a / 250)) + "px"))
+                    o.isInViewport(this) && (t = n - t, t = Math.round(t / a * 100),
+                        e.css("background-position", "center center")
+                   // e.css("background-position", "center center" + parseInt(-t * (a / 250)) + "px"))
                 })
             }) : u(".parallax-background").css({
                 "background-position": "50% 50%",

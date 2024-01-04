@@ -21,7 +21,7 @@
 <script src="/template/js/jquery-plugin-collection.js?v=202311195"></script>
 <!-- Template Scripts -->
 <script src="/template/js/variables.js?v=202311195"></script>
-<script src="/template/js/scripts.js?v=202311195"></script>
+<script src="/template/js/scripts.js?v={{time()}}"></script>
 <script src="/template/js/template.settings.js?v=202311195"></script>
 <script src="/common/calendar.js?v=202311195"></script>
 <script src="/common/bii.js?v={{time()}}"></script>
