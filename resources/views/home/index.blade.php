@@ -53,7 +53,7 @@
                      data-animation-delay="300">
                     <div class="image">
                         <img
-                            src="https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/311149113_485920020231564_3469123922645748464_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=8LOo3xw6-88AX_QljBc&_nc_ht=scontent.fhan19-1.fna&oh=00_AfAhuVBJr10WsbeJYP4HZtSPlC364QHYKzE7ZuO874qwUw&oe=6572C4A1"
+                            src="/sonhuyen/23.jpg"
                             alt="" style="height: 550px; width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
@@ -78,7 +78,7 @@
                      data-animation-delay="400">
                     <div class="image">
                         <img
-                            src="https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/278709710_1929532747249122_86234615299042643_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=VkcbFxLMEY4AX85cyIT&_nc_ht=scontent.fhan19-1.fna&oh=00_AfAzJdcV2kMJxRbB3ieIylIgdwo2mIbWYvRkqQENIV_-GA&oe=656DE191"
+                            src="/sonhuyen/22.jpg"
                             alt="" style="height: 550px; width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
