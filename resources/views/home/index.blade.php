@@ -183,6 +183,39 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="year" data-animation-direction="from-top" data-animation-delay="250">
+                            <span class="neela-style">15/05/2022</span>
+                        </div>
+                        <div class="gallery-container">
+                            <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
+                                 data-animation-delay="250">
+                                <div class="timeline-gallery-del">
+                                    <div class="item text-center">
+                                        <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
+                                        <img
+                                            src="https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/18cf27f0aabf83361b8edc11bc45fe74.jpeg"
+                                            alt="Câu chuyện con gà và hạt đỗ xanh" class="w-100 h-auto"
+                                            style="max-width:500px;"/>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="description-wrapper" data-animation-direction="from-bottom"
+                                 data-animation-delay="250">
+                                <div class="description">
+                                    <div class="neela-style">
+                                        <h4>Làm người yêu anh nhé!</h4>
+                                        <p>Bằng một cách vô tư và nhẹ nhàng nhất, chúng ta bước vào cuộc đời nhau, cùng
+                                            nhau trải qua khoảng thời gian đẹp nhất của tuổi học trò. Anh nghĩ rằng câu
+                                            chuyện của chúng ta sẽ trở nên đặc biệt hơn, không chỉ là bạn bè, mà là
+                                            người yêu của nhau. Đồng ý làm người yêu anh nhé!?
+                                            <br/>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
                             <span class="neela-style">15/05/2022</span>
                         </div>
