@@ -336,66 +336,42 @@
                 <div class="col col-xs-12">
                     <div class="gallery-container gallery-fancybox masonry-gallery">
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/1.jpg"
+                            <a href="/sonhuyen/24.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/1.jpg"
+                                    src="/sonhuyen/24.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/3.jpg"
+                            <a href="/sonhuyen/25.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/3.jpg"
+                                    src="/sonhuyen/25.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/4.jpg"
+                            <a href="/sonhuyen/26.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/4.jpg"
+                                    src="/sonhuyen/26.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/10.jpg"
+                            <a href="/sonhuyen/27.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/10.jpg"
+                                    src="/sonhuyen/27.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/21.jpg"
+                            <a href="/sonhuyen/28.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/21.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="/sonhuyen/16.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="/sonhuyen/16.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="/sonhuyen/23.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="/sonhuyen/23.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="/sonhuyen/33.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="/sonhuyen/33.jpg"
+                                    src="/sonhuyen/28.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
