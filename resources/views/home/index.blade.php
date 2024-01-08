@@ -413,7 +413,7 @@
     <!-- BEGIN WEDDING GIFTS SECTION -->
     <div id="events"></div>
     <section id="giftregistry" class="parallax-background section-bg-color"
-             style="padding:135px 0; background-image: url(/sonhuyen/33.jpg);background-position: center center;">
+             style="padding:135px 0; background-image: url(/sonhuyen/28.jpg);background-position: center center;">
         <div class="section-divider-top-4 off-section"></div>
         <div class="container">
             <div class="row">
