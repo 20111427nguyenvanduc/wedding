@@ -670,7 +670,7 @@ var Neela;
     }
 
 
-    /*------------------------------------------
+    /*------------------------------------gallery-container------
         = POPUP YOUTUBE, VIMEO, GMAPS
     -------------------------------------------*/
     $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({

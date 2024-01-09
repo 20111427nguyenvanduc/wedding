@@ -383,6 +383,16 @@
                                     alt class="img img-responsive">
                             </a>
                         </div>
+                        @for($i = 1; $i < 24 ;$i++)
+                            <div class="grid grid-item" style="display: none">
+                                <a href="/sonhuyen/{{$i}}.jpg"
+                                   class="fancybox" data-fancybox-group="gall-1">
+                                    <img
+                                        src="/sonhuyen/{{$i}}.jpg"
+                                        alt class="img img-responsive">
+                                </a>
+                            </div>
+                        @endfor
                     </div>
                 </div>
             </div>
