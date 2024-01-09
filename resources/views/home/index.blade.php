@@ -393,6 +393,16 @@
                                 </a>
                             </div>
                         @endfor
+                        @for($i = 30; $i < 36 ;$i++)
+                            <div class="grid grid-item" style="display: none">
+                                <a href="/sonhuyen/{{$i}}.jpg"
+                                   class="fancybox" data-fancybox-group="gall-1">
+                                    <img
+                                        src="/sonhuyen/{{$i}}.jpg"
+                                        alt class="img img-responsive">
+                                </a>
+                            </div>
+                        @endfor
                     </div>
                 </div>
             </div>
