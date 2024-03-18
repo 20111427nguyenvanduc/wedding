@@ -6,16 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <title>@yield('title','Ngọc Hiếu & Phùng Phương')</title>
+    <title>@yield('title','Ngọc Hiếu & Thu Phương')</title>
     <meta name="description"
-          content="@yield('description', 'Ngọc Hiếu & Phùng Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
+          content="@yield('description', 'Ngọc Hiếu & Thu Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
     <meta name="keywords"
           content="Wedding, Wedding website, Website đám cưới">
-    <meta property="og:site_name" content="Ngọc Hiếu & Phùng Phương">
+    <meta property="og:site_name" content="Ngọc Hiếu & Thu Phương">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="@yield('title','Ngọc Hiếu & Phùng Phương')">
+    <meta property="og:title" content="@yield('title','Ngọc Hiếu & Thu Phương')">
     <meta property="og:description"
-          content="@yield('description', 'Ngọc Hiếu & Phùng Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
+          content="@yield('description', 'Ngọc Hiếu & Thu Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
     <meta property="og:image"
           content="@yield('image','/hieuphuong/thiepcuoi1.jpg')">
     <meta property="og:url" content={{URL::current()}}>

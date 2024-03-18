@@ -5,17 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <title>Ngọc Hiếu & Phùng Phương</title>
+    <title>Ngọc Hiếu & Thu Phương</title>
     <meta name="description"
-          content="Ngọc Hiếu & Phùng Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại">
+          content="Ngọc Hiếu & Thu Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại">
     <meta name="keywords"
           content="Wedding, Wedding website, Website đám cưới">
-    <meta property="og:site_name" content="Ngọc Hiếu & Phùng Phương">
+    <meta property="og:site_name" content="Ngọc Hiếu & Thu Phương">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Ngọc Hiếu & Phùng Phương Wedding">
+    <meta property="og:title" content="Ngọc Hiếu & Thu Phương Wedding">
     <meta property="og:url" content="./">
     <meta property="og:description"
-          content="Ngọc Hiếu & Phùng Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại">
+          content="Ngọc Hiếu & Thu Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại">
     <meta property="og:image"
           content="https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/311149113_485920020231564_3469123922645748464_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=CazGlS4u7ekAX9EM-rx&_nc_ht=scontent.fhan19-1.fna&oh=00_AfCIreDIqNS6dM9wnRo6Yit2k8hvnVwPSYYBOhoZLREnJw&oe=656CD5E1">
 
@@ -29,7 +29,7 @@
 <body>
 <div class="header">
     <h1><span>Ngọc Hiếu</span> <img height="50" src="https://andu-ducduy.iwedding.info/album/heart.gif">
-        <span>Phùng Phương</span></h1>
+        <span>Thu Phương</span></h1>
     <h2>Tình yêu không làm cho thế giới quay tròn. Tình yêu là những gì làm cho chuyến đi đáng giá</h2>
 </div>
 <div class="border border-shadow-bottom"></div>

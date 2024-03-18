@@ -18,7 +18,7 @@
                             <img height="100" src="https://andu-ducduy.iwedding.info/album/heart.gif">
                             <br>
                             <span class="d-block d-sm-inline" data-animation-direction="from-left"
-                                  data-animation-delay="300">Phùng Phương</span>
+                                  data-animation-delay="300">Thu Phương</span>
                         </h1>
 
                         <div class="hero-subtitle light" data-animation-direction="fade"
@@ -78,7 +78,7 @@
                             alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
-                                <h3>Phùng Thị Phương
+                                <h3>Thu Phương
                                     <small>The Bride</small>
                                 </h3>
                                 <p>Xinh gái</p>
@@ -97,7 +97,7 @@
                         tôi muốn gửi đến bạn những lời cảm ơn sâu sắc nhất và để bạn biết chúng tôi rất hạnh phúc khi
                         thấy bạn ở đó. Cảm ơn các bạn rất nhiều vì sự hiện diện cùng những lời chúc tốt đẹp mà bạn đã
                         dành cho chúng tôi!</p>
-                    <p class="groom-bride-signature"><span>Ngọc Hiếu</span> & <span>Phùng Phương</span></p>
+                    <p class="groom-bride-signature"><span>Ngọc Hiếu</span> & <span>Thu Phương</span></p>
                     <!--<img src="./templates/template/images/signature-2.png" alt="Andrew and Isabella"> -->
                     <div class="parent-info-group">
                         <div class="parent-infos">
@@ -283,7 +283,7 @@
                             <h2 class="fs-1">Ngọc Hiếu <br>
                                 <img height="50" src="https://andu-ducduy.iwedding.info/album/heart.gif">
                                 <br>
-                                Phùng Phương
+                                Thu Phương
                             </h2>
 
                             <div>Một lời chúc của bạn chắc chắn sẽ làm cho đám cưới của chúng tôi có thêm một niềm hạnh
@@ -447,7 +447,7 @@
                                     <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                         <div class="atcb" style="display:none;">
                                             {
-                                            "name":"LỄ THÀNH HÔN TẠI NHÀ TRAI (Đám cưới Ngọc Hiếu và Phùng Phương)",
+                                            "name":"LỄ THÀNH HÔN TẠI NHÀ TRAI (Đám cưới Ngọc Hiếu và Thu Phương)",
                                             "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!.
                                             Thông tin chi tiết xem tại website:<br>[url]./[/url]",
                                             "startDate":"2024-03-28",
@@ -494,7 +494,7 @@
                                     <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                         <div class="atcb" style="display:none;">
                                             {
-                                            "name":"LỄ VU QUY TẠI NHÀ GÁI (Đám cưới Ngọc Hiếu và Phùng Phương)",
+                                            "name":"LỄ VU QUY TẠI NHÀ GÁI (Đám cưới Ngọc Hiếu và Thu Phương)",
                                             "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!.
                                             Thông tin chi tiết xem tại website:<br>[url]./[/url]",
                                             "startDate":"2024-03-28",
@@ -607,7 +607,7 @@
                                     <img class=" m-auto mb-2"
                                          src="">
                                     <p>Ngân hàng: <strong></strong></p>
-                                    <p>Tên tài khoản: <strong>Phùng Thị Phương</strong></p>
+                                    <p>Tên tài khoản: <strong>Thu Phương</strong></p>
                                     <p>Số tài khoản: <strong></strong></p>
                                     <p>Chi nhánh: <strong>Hà Nội</strong></p>
 

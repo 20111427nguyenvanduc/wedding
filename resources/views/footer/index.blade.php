@@ -7,7 +7,7 @@
                         Ngọc Hiếu<br>
                         <img height="30" src="https://andu-ducduy.iwedding.info/album/heart.gif" style="margin: 5px">
                         <br>
-                        Phùng Phương
+                        Thu Phương
                     </div>
                 </div>
             </div>
