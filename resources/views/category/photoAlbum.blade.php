@@ -70,7 +70,7 @@
     <div class="col">
         <p class="text1">The wedding photo album</p>
         <p class="text2">Our best day</p>
-        <p class="text3">14-01-2024</p>
+        <p class="text3">28-04-2024</p>
     </div>
 </div>
 <div class="border border-shadow-top"></div>
