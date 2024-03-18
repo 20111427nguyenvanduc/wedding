@@ -13,16 +13,16 @@
 
                         <h1 class="hero-title light ">
                             <span class="d-block d-sm-inline" data-animation-direction="from-right"
-                                  data-animation-delay="300">Thái Sơn</span>
+                                  data-animation-delay="300">Ngọc Hiếu</span>
                             <br>
                             <img height="100" src="https://andu-ducduy.iwedding.info/album/heart.gif">
                             <br>
                             <span class="d-block d-sm-inline" data-animation-direction="from-left"
-                                  data-animation-delay="300">Khánh Huyền</span>
+                                  data-animation-delay="300">Phùng Phương</span>
                         </h1>
 
                         <div class="hero-subtitle light" data-animation-direction="fade"
-                             data-animation-delay="1000">14 Tháng 01 2024
+                             data-animation-delay="1000">28 Tháng 03 2024
                         </div>
 
                         <div data-animation-direction="fade" data-animation-delay="1000">
@@ -33,7 +33,7 @@
                                    data-animation-delay="300">Count Down
                             </small>
                             <div class="count-down-clock">
-                                <div id="clock" data-date="2024-01-14" data-text-day="Ngày" data-text-hour="Giờ"
+                                <div id="clock" data-date="2024-03-28" data-text-day="Ngày" data-text-hour="Giờ"
                                      data-text-minute="Phút" data-text-second="Giây"></div>
                             </div>
                         </h1>
@@ -53,18 +53,14 @@
                      data-animation-delay="300">
                     <div class="image">
                         <img
-                            src="/sonhuyen/23.jpg"
+                            src="/hieuphuong/21.jpg"
                             alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
-                                <h3>Ngô Thái Sơn
+                                <h3>Nguyễn Ngọc Hiếu
                                     <small>The Groom</small>
                                 </h3>
                                 <p>Đẹp trai</p>
-                                <ul class="sn-icons">
-                                    <li><a href="https://www.facebook.com/sonnt612"><i
-                                                class="fab fa-facebook-square"></i></a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -78,18 +74,15 @@
                      data-animation-delay="400">
                     <div class="image">
                         <img
-                            src="/sonhuyen/22.jpg"
+                            src="/hieuphuong/24.jpg"
                             alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
-                                <h3>Nguyễn Thị Khánh Huyền
+                                <h3>Phùng Thị Phương
                                     <small>The Bride</small>
                                 </h3>
                                 <p>Xinh gái</p>
-                                <ul class="sn-icons">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100005772450292"><i
-                                                class="fab fa-facebook-square"></i></a></li>
-                                </ul>
+
                             </div>
                         </div>
                     </div>
@@ -104,23 +97,23 @@
                         tôi muốn gửi đến bạn những lời cảm ơn sâu sắc nhất và để bạn biết chúng tôi rất hạnh phúc khi
                         thấy bạn ở đó. Cảm ơn các bạn rất nhiều vì sự hiện diện cùng những lời chúc tốt đẹp mà bạn đã
                         dành cho chúng tôi!</p>
-                    <p class="groom-bride-signature"><span>Thái Sơn</span> & <span>Khánh Huyền</span></p>
+                    <p class="groom-bride-signature"><span>Ngọc Hiếu</span> & <span>Phùng Phương</span></p>
                     <!--<img src="./templates/template/images/signature-2.png" alt="Andrew and Isabella"> -->
                     <div class="parent-info-group">
                         <div class="parent-infos">
                             <div class="parent-info"><span class="parent-title">Con ông:</span> <span
-                                    class="parent-name">Ngô Văn Dương</span></div>
+                                    class="parent-name">Nguyễn Đức Thể</span></div>
 
                             <div class="parent-info"><span class="parent-title">Con bà:</span> <span
-                                    class="parent-name">Lại Thị Hằng</span></div>
+                                    class="parent-name">Phạm Thị Thơm</span></div>
                         </div>
 
                         <div class="parent-infos">
                             <div class="parent-info"><span class="parent-title">Con ông:</span> <span
-                                    class="parent-name">Nguyễn Văn Hiệp</span></div>
+                                    class="parent-name">Phùng Văn Quân</span></div>
 
                             <div class="parent-info"><span class="parent-title">Con bà:</span> <span
-                                    class="parent-name">Nguyễn Thị Hằng</span></div>
+                                    class="parent-name">Vương Thị Nhàn</span></div>
                         </div>
                     </div>
                 </div>
@@ -133,7 +126,7 @@
     <section id="our-story-title"
              class="parallax-background bg-color-overlay section-divider-bottom-2 padding-divider-top"
 
-             style="background-image: url(/sonhuyen/26.jpg);background-position: center center;">
+             style="background-image: url(/hieuphuong/26.jpg);background-position: center center;">
         <div class="section-divider-top-1 off-section"></div>
         <!-- The class "section-divider-top-1" can also be applied to the tag <section>. In this case, it was added on a new <div> because the tag <section> have all pseudo elements (::after and ::before) in use. -->
         <div class="container">
@@ -162,7 +155,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/sonhuyen/anh3.jpg"
+                                            src="/hieuphuong/anh3.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -194,7 +187,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/sonhuyen/anh1.jpg"
+                                            src="/hieuphuong/anh1.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -226,7 +219,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/sonhuyen/anh2.jpg"
+                                            src="/hieuphuong/anh2.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -266,7 +259,7 @@
 
     <!-- BEGIN THE WEDDING SECTION -->
     <section id="invitation" class="parallax-background bg-color-overlay padding-divider-top section-divider-bottom-1"
-             style="background-image: url(/sonhuyen/32.jpg);background-position: center center;">
+             style="background-image: url(/hieuphuong/10.jpg);background-position: center center;">
         <div class="section-divider-top-1 off-section"></div>
         <!-- The class "section-divider-top-1" can also be applied to the tag <section>. In this case, it was added on a new <div> because the tag <section> have all pseudo elements (::after and ::before) in use. -->
         <div class="container">
@@ -288,10 +281,10 @@
                         </div>
 
                         <div class="invite_info px-2 px-lg-4">
-                            <h2 class="fs-1">Thái Sơn <br>
+                            <h2 class="fs-1">Ngọc Hiếu <br>
                                 <img height="50" src="https://andu-ducduy.iwedding.info/album/heart.gif">
                                 <br>
-                                Khánh Huyền
+                                Phùng Phương
                             </h2>
 
                             <div>Một lời chúc của bạn chắc chắn sẽ làm cho đám cưới của chúng tôi có thêm một niềm hạnh
@@ -302,9 +295,9 @@
                                    style="min-width:240px;max-width:240px;">Gửi lời chúc</a>
                             </div>
 
-                            <div class="date">14 Tháng 1 2024</div>
+                            <div class="date">28 Tháng 3 2024</div>
                             <div class="count-down-clock">
-                                <div id="clock" data-date="2024-01-14" data-text-day="Ngày" data-text-hour="Giờ"
+                                <div id="clock" data-date="2024-03-28" data-text-day="Ngày" data-text-hour="Giờ"
                                      data-text-minute="Phút" data-text-second="Giây"></div>
                             </div>
                             <!-- <div class="uppercase">At Birchwood Church<br>4181 Birchwood Ave Seal Beach, CA</div>
@@ -336,69 +329,59 @@
                 <div class="col col-xs-12">
                     <div class="gallery-container gallery-fancybox masonry-gallery">
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/24.jpg"
+                            <a href="/hieuphuong/1.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/24.jpg"
+                                    src="/hieuphuong/1.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/25.jpg"
+                            <a href="/hieuphuong/3.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/25.jpg"
+                                    src="/hieuphuong/3.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/26.jpg"
+                            <a href="/hieuphuong/5.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/26.jpg"
+                                    src="/hieuphuong/5.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/27.jpg"
+                            <a href="/hieuphuong/7.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/27.jpg"
+                                    src="/hieuphuong/7.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/28.jpg"
+                            <a href="/hieuphuong/17.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/28.jpg"
+                                    src="/hieuphuong/17.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/29.jpg"
+                            <a href="/hieuphuong/20.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/29.jpg"
+                                    src="/hieuphuong/20.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
-                        @for($i = 1; $i < 24 ;$i++)
+                        @for($i = 1; $i < 28 ;$i++)
                             <div class="grid grid-item" style="display: none">
-                                <a href="/sonhuyen/{{$i}}.jpg"
+                                <a href="/hieuphuong/{{$i}}.jpg"
                                    class="fancybox" data-fancybox-group="gall-1">
                                     <img
-                                        src="/sonhuyen/{{$i}}.jpg"
-                                        alt class="img img-responsive">
-                                </a>
-                            </div>
-                        @endfor
-                        @for($i = 30; $i < 36 ;$i++)
-                            <div class="grid grid-item" style="display: none">
-                                <a href="/sonhuyen/{{$i}}.jpg"
-                                   class="fancybox" data-fancybox-group="gall-1">
-                                    <img
-                                        src="/sonhuyen/{{$i}}.jpg"
+                                        src="/hieuphuong/{{$i}}.jpg"
                                         alt class="img img-responsive">
                                 </a>
                             </div>
@@ -433,7 +416,7 @@
     <!-- BEGIN WEDDING GIFTS SECTION -->
     <div id="events"></div>
     <section id="giftregistry" class="parallax-background section-bg-color"
-             style="padding:135px 0; background-image: url(/sonhuyen/28.jpg);background-position: center center;">
+             style="padding:135px 0; background-image: url(/hieuphuong/20.jpg);background-position: center center;">
         <div class="section-divider-top-4 off-section"></div>
         <div class="container">
             <div class="row">
@@ -449,15 +432,15 @@
                             <div class="neela-style">
                                 <div class="d-flex align-items-center event-item-content">
                                     <img
-                                        src="/sonhuyen/23.jpg"
+                                        src="/hieuphuong/23.jpg"
                                         alt="TIỆC CƯỚI NHÀ TRAI" width="100" height="100"
                                         class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
                                         <h3 class="w-100">LỄ THÀNH HÔN TẠI NHÀ TRAI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>16:00 14/01/2024</strong></p>
+                                            <strong>11:00 2024-03-28</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
-                                            <strong>Thôn Chi Trung, Xã Tân Chi, Huyện Tiên Du, Bắc Ninh</strong></p>
+                                            <strong>TDP Trung Thượng - Phường Châu Giang - TX Duy Tiên - Tỉnh Hà Nam</strong></p>
                                     </div>
                                 </div>
 
@@ -465,14 +448,14 @@
                                     <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                         <div class="atcb" style="display:none;">
                                             {
-                                            "name":"LỄ THÀNH HÔN TẠI NHÀ TRAI (Đám cưới Thái Sơn và Khánh Huyền)",
+                                            "name":"LỄ THÀNH HÔN TẠI NHÀ TRAI (Đám cưới Ngọc Hiếu và Phùng Phương)",
                                             "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!.
                                             Thông tin chi tiết xem tại website:<br>[url]./[/url]",
-                                            "startDate":"2024-01-14",
-                                            "endDate":"2024-01-14",
+                                            "startDate":"2024-03-28",
+                                            "endDate":"2024-03-28",
                                             "startTime":"16:00",
                                             "endTime":"17:00",
-                                            "location":"Thôn Chi Trung, Xã Tân Chi, Huyện Tiên Du, Bắc Ninh",
+                                            "location":"TDP Trung Thượng - Phường Châu Giang - TX Duy Tiên - Tỉnh Hà Nam",
                                             "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                             "timeZone":"Asia/Ho_Chi_Minh",
                                             "iCalFileName":"Reminder-Event",
@@ -484,7 +467,7 @@
                                     </div>
                                     <a href="javascript:void(0)" id="otheramount"
                                        class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                                    <a href="https://www.google.com/maps/place/C%E1%BB%ADa+H%C3%A0ng+S%E1%BB%AFa+B%E1%BB%89m+H%E1%BA%B1ng+D%C6%B0%C6%A1ng/@21.0760803,106.0895632,17z/data=!3m1!4b1!4m6!3m5!1s0x3135a09e49fd6251:0xebccf6ffd3f5d8a6!8m2!3d21.0760803!4d106.0921381!16s%2Fg%2F11g9nlkrlw?hl=vi-VN&entry=ttu"
+                                    <a href=""
                                        target="_blank" id="otheramount"
                                        class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                                 </div>
@@ -496,15 +479,15 @@
                             <div class="neela-style">
                                 <div class="d-flex align-items-center event-item-content">
                                     <img
-                                        src="/sonhuyen/22.jpg"
+                                        src="/hieuphuong/22.jpg"
                                         alt="LỄ CƯỚI NHÀ NAM" width="100" height="100"
                                         class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
                                         <h3 class="w-100">LỄ VU QUY TẠI NHÀ GÁI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>15:30 14/01/2024</strong></p>
+                                            <strong>7h:30 14/01/2024</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
-                                            <strong>Khu Quế Sơn, Phường Khắc Niệm, TP Bắc Ninh, Bắc Ninh</strong></p>
+                                            <strong>Thôn Cầu - Xã Hoàng Đan - Huyện Tam Dương - Tỉnh Vĩnh Phúc</strong></p>
                                     </div>
                                 </div>
 
@@ -512,14 +495,14 @@
                                     <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                         <div class="atcb" style="display:none;">
                                             {
-                                            "name":"LỄ VU QUY TẠI NHÀ GÁI (Đám cưới Thái Sơn và Khánh Huyền)",
+                                            "name":"LỄ VU QUY TẠI NHÀ GÁI (Đám cưới Ngọc Hiếu và Phùng Phương)",
                                             "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!.
                                             Thông tin chi tiết xem tại website:<br>[url]./[/url]",
-                                            "startDate":"2024-01-14",
-                                            "endDate":"2024-01-14",
+                                            "startDate":"2024-03-28",
+                                            "endDate":"2024-03-28",
                                             "startTime":"15:30",
                                             "endTime":"16:00",
-                                            "location":"Khu Quế Sơn, Phường Khắc Niệm, TP Bắc Ninh, Bắc Ninh",
+                                            "location":"Thôn Cầu - Xã Hoàng Đan - Huyện Tam Dương - Tỉnh Vĩnh Phúc",
                                             "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                             "timeZone":"Asia/Ho_Chi_Minh",
                                             "iCalFileName":"Reminder-Event",
@@ -531,7 +514,7 @@
                                     </div>
                                     <a href="javascript:void(0)" id="otheramount"
                                        class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                                    <a href="https://www.google.com/maps/@21.1303458,106.057918,20.24z?hl=vi-VN&entry=ttu"
+                                    <a href=""
                                        target="_blank" id="otheramount"
                                        class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                                 </div>
@@ -604,10 +587,10 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến chú rể</h4>
                                     <img class="m-auto mb-2"
-                                         src="/template/images/thaisonbank.png">
-                                    <p>Ngân hàng: <strong>CAKE BY VPBANK</strong></p>
-                                    <p>Tên tài khoản: <strong>Ngô Thái Sơn</strong></p>
-                                    <p>Số tài khoản: <strong>0966717874</strong></p>
+                                         src="">
+                                    <p>Ngân hàng: <strong></strong></p>
+                                    <p>Tên tài khoản: <strong>Nguyễn Ngọc Hiếu</strong></p>
+                                    <p>Số tài khoản: <strong></strong></p>
                                     <p>Chi nhánh: <strong>Hà Nội</strong></p>
 
                                 </div>
@@ -623,10 +606,10 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến cô dâu</h4>
                                     <img class=" m-auto mb-2"
-                                         src="/template/images/khanhhuyenbank.png">
-                                    <p>Ngân hàng: <strong>CAKE BY VPBANK</strong></p>
-                                    <p>Tên tài khoản: <strong>Nguyễn Thị Khánh Huyền</strong></p>
-                                    <p>Số tài khoản: <strong>0989978608</strong></p>
+                                         src="">
+                                    <p>Ngân hàng: <strong></strong></p>
+                                    <p>Tên tài khoản: <strong>Phùng Thị Phương</strong></p>
+                                    <p>Số tài khoản: <strong></strong></p>
                                     <p>Chi nhánh: <strong>Hà Nội</strong></p>
 
                                 </div>
@@ -639,3 +622,5 @@
     </section>
 
 @endsection
+
+
