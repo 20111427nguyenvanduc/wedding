@@ -146,7 +146,7 @@
                 <div class="col-md-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
                     <div class="timeline">
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">06/2014</span>
+                            <span class="neela-style">08/2017</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
@@ -168,8 +168,7 @@
                                     <div class="neela-style">
                                         <h4>Em có tin tình yêu từ cái nhìn đầu tiên không?</h4>
                                         <p>Anh đã từng không tin vào "tình yêu sét đánh". Làm sao có thể thích một người
-                                            không quen biết ngay từ ánh nhìn đầu tiên? Cho đến khi gặp em tại trường
-                                            THPT chuyên Bắc Ninh, vẻ đẹp tươi sáng trong đôi mắt đã khiến tim anh rung
+                                            không quen biết ngay từ ánh nhìn đầu tiên? Cho đến khi gặp em vẻ đẹp tươi sáng trong đôi mắt đã khiến tim anh rung
                                             động. Mọi thứ xung quanh dường như chậm lại, chỉ để anh có thể ngắm nhìn đôi
                                             mắt ấy và cảm nhận sự đặc biệt ngay từ cái nhìn đầu tiên.</p>
                                     </div>
@@ -178,7 +177,7 @@
                         </div>
 
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">06/2016</span>
+                            <span class="neela-style">5/2/2018</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
@@ -210,7 +209,7 @@
                             </div>
                         </div>
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">10/2023</span>
+                            <span class="neela-style">1/2024</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
