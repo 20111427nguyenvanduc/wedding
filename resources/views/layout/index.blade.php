@@ -17,11 +17,11 @@
     <meta property="og:description"
           content="@yield('description', 'Ngọc Hiếu & Phùng Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
     <meta property="og:image"
-          content="@yield('image','/thiepcuoi1.png')">
+          content="@yield('image','/hieuphuong/thiepcuoi1.jpg')">
     <meta property="og:url" content={{URL::current()}}>
     <!-- Fav and touch icons -->
     <link rel="icon" type="image/png" sizes="32x32"
-          href="/thiepcuoi1.png">
+          href="/hieuphuong/thiepcuoi1.jpg">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <link rel="manifest"
