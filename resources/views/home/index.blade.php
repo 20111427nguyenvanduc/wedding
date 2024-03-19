@@ -155,7 +155,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/hieuphuong/anh18.jpg"
+                                            src="/hieuphuong/18.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -186,7 +186,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/hieuphuong/anh3.jpg"
+                                            src="/hieuphuong/3.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -218,7 +218,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/hieuphuong/anh2.jpg"
+                                            src="/hieuphuong/2.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
