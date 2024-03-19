@@ -5,7 +5,7 @@
                 <div class="col-sm-12">
                     <a href="#hero" class="nav-logo d-flex align-items-center h-100"><h1 style="font-size:25px">
                             NH<span class="main-color"><i class="fa fa-heart"
-                                                          style="margin:5px 5px 5px 5px; color: #e67e7e"></i></span>PP</h1></a>
+                                                          style="margin:5px 5px 5px 5px; color: #e67e7e"></i></span>TP</h1></a>
 
                     <!-- BEGIN MAIN MENU -->
                     <nav class="navbar">
