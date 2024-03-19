@@ -155,7 +155,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/hieuphuong/anh3.jpg"
+                                            src="/hieuphuong/anh18.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -186,7 +186,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/hieuphuong/anh1.jpg"
+                                            src="/hieuphuong/anh3.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -587,9 +587,9 @@
                                     <h4 class="fs-5">Mừng cưới đến chú rể</h4>
                                     <img class="m-auto mb-2"
                                          src="">
-                                    <p>Ngân hàng: <strong></strong></p>
+                                    <p>Ngân hàng: <strong>Ngân hàng Techcombank</strong></p>
                                     <p>Tên tài khoản: <strong>Nguyễn Ngọc Hiếu</strong></p>
-                                    <p>Số tài khoản: <strong></strong></p>
+                                    <p>Số tài khoản: <strong>2586262888</strong></p>
                                     <p>Chi nhánh: <strong>Hà Nội</strong></p>
 
                                 </div>
@@ -606,10 +606,10 @@
                                     <h4 class="fs-5">Mừng cưới đến cô dâu</h4>
                                     <img class=" m-auto mb-2"
                                          src="">
-                                    <p>Ngân hàng: <strong></strong></p>
-                                    <p>Tên tài khoản: <strong>Thu Phương</strong></p>
-                                    <p>Số tài khoản: <strong></strong></p>
-                                    <p>Chi nhánh: <strong>Hà Nội</strong></p>
+                                    <p>Ngân hàng: <strong>Ngân hàng Techcombank</strong></p>
+                                    <p>Tên tài khoản: <strong>Phùng Thị Phương</strong></p>
+                                    <p>Số tài khoản: <strong>19036618863013</strong></p>
+                                    <p>Chi nhánh: <strong>Vĩnh Yên</strong></p>
 
                                 </div>
                             </div>
