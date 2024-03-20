@@ -466,7 +466,7 @@
                                     </div>
                                     <a href="javascript:void(0)" id="otheramount"
                                        class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                                    <a href=""
+                                    <a href="https://www.google.com/maps/place/20%C2%B039'18.9%22N+105%C2%B058'35.7%22E/@20.6552448,105.9739952,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.6552448!4d105.9765701?entry=ttu"
                                        target="_blank" id="otheramount"
                                        class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                                 </div>
@@ -513,7 +513,7 @@
                                     </div>
                                     <a href="javascript:void(0)" id="otheramount"
                                        class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                                    <a href=""
+                                    <a href="https://www.google.com/maps?q=21.339893341064453,105.52583312988281&z=14&t=m&mapclient=embed"
                                        target="_blank" id="otheramount"
                                        class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                                 </div>
@@ -586,12 +586,10 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến chú rể</h4>
                                     <img class="m-auto mb-2"
-                                         src="">
+                                         src="/hieuphuong/tk2.jpg">
                                     <p>Ngân hàng: <strong>Ngân hàng Techcombank</strong></p>
                                     <p>Tên tài khoản: <strong>Nguyễn Ngọc Hiếu</strong></p>
                                     <p>Số tài khoản: <strong>2586262888</strong></p>
-                                    <p>Chi nhánh: <strong>Hà Nội</strong></p>
-
                                 </div>
                             </div>
                         </div>
@@ -605,12 +603,10 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến cô dâu</h4>
                                     <img class=" m-auto mb-2"
-                                         src="">
-                                    <p>Ngân hàng: <strong>Ngân hàng Techcombank</strong></p>
+                                         src="/hieuphuong/tk1.jpg">
+                                    <p>Ngân hàng: <strong>Ngân hàng VP Bank</strong></p>
                                     <p>Tên tài khoản: <strong>Phùng Thị Phương</strong></p>
-                                    <p>Số tài khoản: <strong>19036618863013</strong></p>
-                                    <p>Chi nhánh: <strong>Vĩnh Yên</strong></p>
-
+                                    <p>Số tài khoản: <strong>0968697761</strong></p>
                                 </div>
                             </div>
                         </div>
