@@ -586,7 +586,7 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến chú rể</h4>
                                     <img class="m-auto mb-2"
-                                         src="/hieuphuong/tk2.jpg">
+                                         src="/hieuphuong/tk2.jpg" style="max-height: 550px">
                                     <p>Ngân hàng: <strong>Ngân hàng Techcombank</strong></p>
                                     <p>Tên tài khoản: <strong>Nguyễn Ngọc Hiếu</strong></p>
                                     <p>Số tài khoản: <strong>2586262888</strong></p>
@@ -603,7 +603,7 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến cô dâu</h4>
                                     <img class=" m-auto mb-2"
-                                         src="/hieuphuong/tk1.jpg">
+                                         src="/hieuphuong/tk1.jpg" style="max-height: 550px">
                                     <p>Ngân hàng: <strong>Ngân hàng VP Bank</strong></p>
                                     <p>Tên tài khoản: <strong>Phùng Thị Phương</strong></p>
                                     <p>Số tài khoản: <strong>0968697761</strong></p>
