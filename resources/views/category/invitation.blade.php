@@ -12,10 +12,8 @@
                                 <input type="text" name="name" placeholder="Tên người mời" class="form-control"
                                        value="">
                                 <select name="type" >
-                                    <option selected value="thiepmoi1.png">Nhà Trai 16h</option>
-                                    <option value="thiepmoi2.png">Nhà Gái</option>
-                                    <option value="thiepmoi3.png">Nhà Trai 9h</option>
-                                    <option value="thiepmoi4.png">Nhà Trai 11h</option>
+                                    <option value="/hungchi/nhagai.png">Nhà Gái</option>
+                                    <option value="/hungchi/nhatrai.png">Nhà Trai</option>
                                 </select>
                             </div>
 

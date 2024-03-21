@@ -13,16 +13,16 @@
 
                         <h1 class="hero-title light ">
                             <span class="d-block d-sm-inline" data-animation-direction="from-right"
-                                  data-animation-delay="300">Thái Sơn</span>
+                                  data-animation-delay="300">Quang Hưng</span>
                             <br>
                             <img height="100" src="https://andu-ducduy.iwedding.info/album/heart.gif">
                             <br>
                             <span class="d-block d-sm-inline" data-animation-direction="from-left"
-                                  data-animation-delay="300">Khánh Huyền</span>
+                                  data-animation-delay="300">Linh Chi</span>
                         </h1>
 
                         <div class="hero-subtitle light" data-animation-direction="fade"
-                             data-animation-delay="1000">14 Tháng 01 2024
+                             data-animation-delay="1000">31 Tháng 03 2024
                         </div>
 
                         <div data-animation-direction="fade" data-animation-delay="1000">
@@ -33,7 +33,7 @@
                                    data-animation-delay="300">Count Down
                             </small>
                             <div class="count-down-clock">
-                                <div id="clock" data-date="2024-01-14" data-text-day="Ngày" data-text-hour="Giờ"
+                                <div id="clock" data-date="2024-03-31" data-text-day="Ngày" data-text-hour="Giờ"
                                      data-text-minute="Phút" data-text-second="Giây"></div>
                             </div>
                         </h1>
@@ -57,7 +57,7 @@
                             alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
-                                <h3>Ngô Thái Sơn
+                                <h3>Quang Hưng
                                     <small>The Groom</small>
                                 </h3>
                                 <p>Đẹp trai</p>
@@ -82,7 +82,7 @@
                             alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
-                                <h3>Nguyễn Thị Khánh Huyền
+                                <h3>Linh Chi
                                     <small>The Bride</small>
                                 </h3>
                                 <p>Xinh gái</p>
@@ -104,23 +104,20 @@
                         tôi muốn gửi đến bạn những lời cảm ơn sâu sắc nhất và để bạn biết chúng tôi rất hạnh phúc khi
                         thấy bạn ở đó. Cảm ơn các bạn rất nhiều vì sự hiện diện cùng những lời chúc tốt đẹp mà bạn đã
                         dành cho chúng tôi!</p>
-                    <p class="groom-bride-signature"><span>Thái Sơn</span> & <span>Khánh Huyền</span></p>
+                    <p class="groom-bride-signature"><span>Quang Hưng</span> & <span>Linh Chi</span></p>
                     <!--<img src="./templates/template/images/signature-2.png" alt="Andrew and Isabella"> -->
                     <div class="parent-info-group">
-                        <div class="parent-infos">
-                            <div class="parent-info"><span class="parent-title">Con ông:</span> <span
-                                    class="parent-name">Ngô Văn Dương</span></div>
-
-                            <div class="parent-info"><span class="parent-title">Con bà:</span> <span
-                                    class="parent-name">Lại Thị Hằng</span></div>
-                        </div>
-
                         <div class="parent-infos">
                             <div class="parent-info"><span class="parent-title">Con ông:</span> <span
                                     class="parent-name">Nguyễn Văn Hiệp</span></div>
 
                             <div class="parent-info"><span class="parent-title">Con bà:</span> <span
                                     class="parent-name">Nguyễn Thị Hằng</span></div>
+                        </div>
+
+                        <div class="parent-infos">
+                            <div class="parent-info"><span class="parent-title">Con bà:</span> <span
+                                    class="parent-name">Vũ Thị Định</span></div>
                         </div>
                     </div>
                 </div>
@@ -288,10 +285,10 @@
                         </div>
 
                         <div class="invite_info px-2 px-lg-4">
-                            <h2 class="fs-1">Thái Sơn <br>
+                            <h2 class="fs-1">Quang Hưng <br>
                                 <img height="50" src="https://andu-ducduy.iwedding.info/album/heart.gif">
                                 <br>
-                                Khánh Huyền
+                                Linh Chi
                             </h2>
 
                             <div>Một lời chúc của bạn chắc chắn sẽ làm cho đám cưới của chúng tôi có thêm một niềm hạnh
@@ -302,9 +299,9 @@
                                    style="min-width:240px;max-width:240px;">Gửi lời chúc</a>
                             </div>
 
-                            <div class="date">14 Tháng 1 2024</div>
+                            <div class="date">31 Tháng 3 2024</div>
                             <div class="count-down-clock">
-                                <div id="clock" data-date="2024-01-14" data-text-day="Ngày" data-text-hour="Giờ"
+                                <div id="clock" data-date="2024-03-31" data-text-day="Ngày" data-text-hour="Giờ"
                                      data-text-minute="Phút" data-text-second="Giây"></div>
                             </div>
                             <!-- <div class="uppercase">At Birchwood Church<br>4181 Birchwood Ave Seal Beach, CA</div>
@@ -449,15 +446,15 @@
                             <div class="neela-style">
                                 <div class="d-flex align-items-center event-item-content">
                                     <img
-                                        src="/sonhuyen/23.jpg"
-                                        alt="TIỆC CƯỚI NHÀ TRAI" width="100" height="100"
+                                        src="/sonhuyen/22.jpg"
+                                        alt="LỄ CƯỚI NHÀ NAM" width="100" height="100"
                                         class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
-                                        <h3 class="w-100">LỄ THÀNH HÔN TẠI NHÀ TRAI</h3>
+                                        <h3 class="w-100">LỄ VU QUY TẠI NHÀ TRAI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>16:00 14/01/2024</strong></p>
+                                            <strong>15:30 14/01/2024</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
-                                            <strong>Thôn Chi Trung, Xã Tân Chi, Huyện Tiên Du, Bắc Ninh</strong></p>
+                                            <strong>Nhà Văn Hóa Khu Quế Sơn, Phường Khắc Niệm, TP Bắc Ninh, Bắc Ninh</strong></p>
                                     </div>
                                 </div>
 
@@ -465,14 +462,14 @@
                                     <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                         <div class="atcb" style="display:none;">
                                             {
-                                            "name":"LỄ THÀNH HÔN TẠI NHÀ TRAI (Đám cưới Thái Sơn và Khánh Huyền)",
+                                            "name":"LỄ VU QUY TẠI NHÀ TRAI (Đám cưới Quang Hưng và Linh Chi)",
                                             "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!.
                                             Thông tin chi tiết xem tại website:<br>[url]./[/url]",
-                                            "startDate":"2024-01-14",
-                                            "endDate":"2024-01-14",
-                                            "startTime":"16:00",
-                                            "endTime":"17:00",
-                                            "location":"Thôn Chi Trung, Xã Tân Chi, Huyện Tiên Du, Bắc Ninh",
+                                            "startDate":"2024-03-31",
+                                            "endDate":"2024-03-31",
+                                            "startTime":"15:30",
+                                            "endTime":"16:00",
+                                            "location":"Khu Quế Sơn, Phường Khắc Niệm, TP Bắc Ninh, Bắc Ninh",
                                             "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                             "timeZone":"Asia/Ho_Chi_Minh",
                                             "iCalFileName":"Reminder-Event",
@@ -484,7 +481,7 @@
                                     </div>
                                     <a href="javascript:void(0)" id="otheramount"
                                        class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                                    <a href="https://www.google.com/maps/place/C%E1%BB%ADa+H%C3%A0ng+S%E1%BB%AFa+B%E1%BB%89m+H%E1%BA%B1ng+D%C6%B0%C6%A1ng/@21.0760803,106.0895632,17z/data=!3m1!4b1!4m6!3m5!1s0x3135a09e49fd6251:0xebccf6ffd3f5d8a6!8m2!3d21.0760803!4d106.0921381!16s%2Fg%2F11g9nlkrlw?hl=vi-VN&entry=ttu"
+                                    <a href="https://www.google.com/maps/@21.1303458,106.057918,20.24z?hl=vi-VN&entry=ttu"
                                        target="_blank" id="otheramount"
                                        class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                                 </div>
@@ -502,9 +499,9 @@
                                     <div class="d-inline-block">
                                         <h3 class="w-100">LỄ VU QUY TẠI NHÀ GÁI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>15:30 14/01/2024</strong></p>
+                                            <strong>10:00 31/03/2024</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
-                                            <strong>Khu Quế Sơn, Phường Khắc Niệm, TP Bắc Ninh, Bắc Ninh</strong></p>
+                                            <strong>Khu 1 Hoàng Quốc Việt, Thị Cầu, Bắc Ninh</strong></p>
                                     </div>
                                 </div>
 
@@ -512,14 +509,14 @@
                                     <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                         <div class="atcb" style="display:none;">
                                             {
-                                            "name":"LỄ VU QUY TẠI NHÀ GÁI (Đám cưới Thái Sơn và Khánh Huyền)",
+                                            "name":"LỄ VU QUY TẠI NHÀ GÁI (Đám cưới Quang Hưng và Linh Chi)",
                                             "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!.
                                             Thông tin chi tiết xem tại website:<br>[url]./[/url]",
-                                            "startDate":"2024-01-14",
-                                            "endDate":"2024-01-14",
-                                            "startTime":"15:30",
+                                            "startDate":"2024-03-31",
+                                            "endDate":"2024-03-31",
+                                            "startTime":"10:00",
                                             "endTime":"16:00",
-                                            "location":"Khu Quế Sơn, Phường Khắc Niệm, TP Bắc Ninh, Bắc Ninh",
+                                            "location":"Khu 1 Hoàng Quốc Việt, Thị Cầu, Bắc Ninh",
                                             "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                             "timeZone":"Asia/Ho_Chi_Minh",
                                             "iCalFileName":"Reminder-Event",
@@ -606,7 +603,7 @@
                                     <img class="m-auto mb-2"
                                          src="/template/images/thaisonbank.png">
                                     <p>Ngân hàng: <strong>CAKE BY VPBANK</strong></p>
-                                    <p>Tên tài khoản: <strong>Ngô Thái Sơn</strong></p>
+                                    <p>Tên tài khoản: <strong>Ngô Quang Hưng</strong></p>
                                     <p>Số tài khoản: <strong>0966717874</strong></p>
                                     <p>Chi nhánh: <strong>Hà Nội</strong></p>
 
@@ -625,7 +622,7 @@
                                     <img class=" m-auto mb-2"
                                          src="/template/images/khanhhuyenbank.png">
                                     <p>Ngân hàng: <strong>CAKE BY VPBANK</strong></p>
-                                    <p>Tên tài khoản: <strong>Nguyễn Thị Khánh Huyền</strong></p>
+                                    <p>Tên tài khoản: <strong>Nguyễn Thị Linh Chi</strong></p>
                                     <p>Số tài khoản: <strong>0989978608</strong></p>
                                     <p>Chi nhánh: <strong>Hà Nội</strong></p>
 

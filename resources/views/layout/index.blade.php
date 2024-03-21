@@ -6,22 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <title>@yield('title','Thái Sơn & Khánh Huyền')</title>
+    <title>@yield('title','Quang Hưng & Linh Chi')</title>
     <meta name="description"
-          content="@yield('description', 'Thái Sơn & Khánh Huyền - Our wedding date: 2024-01-14 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
+          content="@yield('description', 'Quang Hưng & Linh Chi - Our wedding date: 2024-03-31 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
     <meta name="keywords"
           content="Wedding, Wedding website, Website đám cưới">
-    <meta property="og:site_name" content="Thái Sơn & Khánh Huyền">
+    <meta property="og:site_name" content="Quang Hưng & Linh Chi">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="@yield('title','Thái Sơn & Khánh Huyền')">
+    <meta property="og:title" content="@yield('title','Quang Hưng & Linh Chi')">
     <meta property="og:description"
-          content="@yield('description', 'Thái Sơn & Khánh Huyền - Our wedding date: 2024-01-14 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
+          content="@yield('description', 'Quang Hưng & Linh Chi - Our wedding date: 2024-03-31 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
     <meta property="og:image"
-          content="@yield('image','/thiepcuoi1.png')">
+          content="@yield('image','/hungchi/nhatrai.png')">
     <meta property="og:url" content={{URL::current()}}>
     <!-- Fav and touch icons -->
     <link rel="icon" type="image/png" sizes="32x32"
-          href="/thiepcuoi1.png">
+          href="/hungchi/nhatrai.png">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <link rel="manifest"
