@@ -29,7 +29,7 @@ class HomeController extends Controller
     {
         $this->views['title'] = "TS&KH";
 
-        $this->views['wishs'] = Wish::orderBy('created_at', 'DESC')->get();
+        $this->views['wishs'] = Wish::where('phone','hungchi')->orderBy('created_at', 'DESC')->get();
 
         return view('home.index', $this->views);
 
@@ -51,7 +51,7 @@ class HomeController extends Controller
             if ($request->has('type') && $request->get('type') != ''){
                 $banner= $request->get('type');
             }else{
-                $banner= 'thiepmoi1.png';
+                $banner= '/hungchi/nhatrai.png';
 
             }
 
@@ -96,7 +96,7 @@ class HomeController extends Controller
             $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
             $this->views['link'] = '/' . $invitation->body;
         } else {
-            $this->views['invitation'] = '/thiepmoi1.png';
+            $this->views['invitation'] = '/hungchi/nhatrai.png';
             $this->views['link'] = '/thiep-moi/';
         }
 
@@ -119,7 +119,7 @@ class HomeController extends Controller
 
         $wish = new Wish();
         $wish->name = $request->get('name');
-        $wish->phone = $request->get('email');
+        $wish->phone = "hungchi";
         $wish->body = $request->get('content');
         $wish->save();
 
