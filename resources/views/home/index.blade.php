@@ -437,7 +437,7 @@
                                     <div class="d-inline-block">
                                         <h3 class="w-100">LỄ THÀNH HÔN TẠI NHÀ TRAI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>11:00 2024-03-28</strong></p>
+                                            <strong>11:00 2024-03-28 Dương lịch</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
                                             <strong>TDP Trung Thượng - Phường Châu Giang - TX Duy Tiên - Tỉnh Hà Nam</strong></p>
                                     </div>
@@ -484,7 +484,9 @@
                                     <div class="d-inline-block">
                                         <h3 class="w-100">LỄ VU QUY TẠI NHÀ GÁI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>7h:30 28/03/2024</strong></p>
+                                            <strong>15h:00 18/02/2024 Âm lịch</strong></p>
+                                        <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
+                                            <strong>Tức 15h:00 27/03/2024 Dương lịch</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
                                             <strong>Thôn Cầu - Xã Hoàng Đan - Huyện Tam Dương - Tỉnh Vĩnh Phúc</strong></p>
                                     </div>
