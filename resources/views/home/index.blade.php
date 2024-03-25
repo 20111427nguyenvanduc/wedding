@@ -53,7 +53,7 @@
                      data-animation-delay="300">
                     <div class="image">
                         <img
-                            src="/sonhuyen/23.jpg"
+                            src="/hungchi/3.jpeg"
                             alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
@@ -62,8 +62,7 @@
                                 </h3>
                                 <p>Đẹp trai</p>
                                 <ul class="sn-icons">
-                                    <li><a href="https://www.facebook.com/sonnt612"><i
-                                                class="fab fa-facebook-square"></i></a></li>
+
                                 </ul>
                             </div>
                         </div>
@@ -78,7 +77,7 @@
                      data-animation-delay="400">
                     <div class="image">
                         <img
-                            src="/sonhuyen/22.jpg"
+                            src="/hungchi/7.jpeg"
                             alt="" style="width: 100%"/>
                         <div class="hover-info neela-style">
                             <div class="content">
@@ -87,8 +86,7 @@
                                 </h3>
                                 <p>Xinh gái</p>
                                 <ul class="sn-icons">
-                                    <li><a href="https://www.facebook.com/profile.php?id=100005772450292"><i
-                                                class="fab fa-facebook-square"></i></a></li>
+
                                 </ul>
                             </div>
                         </div>
@@ -127,143 +125,143 @@
     <!-- END ABOUT US SECTION -->
 
     <!-- BEGIN OUR STORY TITLE SECTION -->
-    <section id="our-story-title"
-             class="parallax-background bg-color-overlay section-divider-bottom-2 padding-divider-top"
+    {{--<section id="our-story-title"--}}
+             {{--class="parallax-background bg-color-overlay section-divider-bottom-2 padding-divider-top"--}}
 
-             style="background-image: url(/sonhuyen/26.jpg);background-position: center center;">
-        <div class="section-divider-top-1 off-section"></div>
-        <!-- The class "section-divider-top-1" can also be applied to the tag <section>. In this case, it was added on a new <div> because the tag <section> have all pseudo elements (::after and ::before) in use. -->
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h1 class="section-title light">Chuyện Tình Yêu</h1>
-                </div>
-            </div>
-        </div>
-    </section>
+             {{--style="background-image: url(/hungchi/1.jpeg);background-position: center center;">--}}
+        {{--<div class="section-divider-top-1 off-section"></div>--}}
+        {{--<!-- The class "section-divider-top-1" can also be applied to the tag <section>. In this case, it was added on a new <div> because the tag <section> have all pseudo elements (::after and ::before) in use. -->--}}
+        {{--<div class="container">--}}
+            {{--<div class="row">--}}
+                {{--<div class="col-sm-12">--}}
+                    {{--<h1 class="section-title light">Chuyện Tình Yêu</h1>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</section>--}}
     <!-- END OUR STORY TITLE SECTION -->
 
     <!-- BEGIN TIMELINE SECTION -->
-    <section id="story">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
-                    <div class="timeline">
-                        <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">06/2014</span>
-                        </div>
-                        <div class="gallery-container">
-                            <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
-                                 data-animation-delay="250">
-                                <div class="timeline-gallery-del">
-                                    <div class="item text-center">
-                                        <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
-                                        <img
-                                            src="/sonhuyen/anh3.jpg"
-                                            alt="" class="w-100 h-auto"
-                                            style="max-width:500px;"/>
-                                    </div>
-                                </div>
-                            </div>
+    {{--<section id="story">--}}
+        {{--<div class="container">--}}
+            {{--<div class="row">--}}
+                {{--<div class="col-md-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">--}}
+                    {{--<div class="timeline">--}}
+                        {{--<div class="year" data-animation-direction="from-top" data-animation-delay="250">--}}
+                            {{--<span class="neela-style">06/2014</span>--}}
+                        {{--</div>--}}
+                        {{--<div class="gallery-container">--}}
+                            {{--<div class="timeline-gallery-wrapper" data-animation-direction="from-left"--}}
+                                 {{--data-animation-delay="250">--}}
+                                {{--<div class="timeline-gallery-del">--}}
+                                    {{--<div class="item text-center">--}}
+                                        {{--<!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->--}}
+                                        {{--<img--}}
+                                            {{--src="/hungchi/anh3.jpg"--}}
+                                            {{--alt="" class="w-100 h-auto"--}}
+                                            {{--style="max-width:500px;"/>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
 
-                            <div class="description-wrapper" data-animation-direction="from-bottom"
-                                 data-animation-delay="250">
-                                <div class="description">
-                                    <div class="neela-style">
-                                        <h4>Em có tin tình yêu từ cái nhìn đầu tiên không?</h4>
-                                        <p>Anh đã từng không tin vào "tình yêu sét đánh". Làm sao có thể thích một người
-                                            không quen biết ngay từ ánh nhìn đầu tiên? Cho đến khi gặp em tại trường
-                                            THPT chuyên Bắc Ninh, vẻ đẹp tươi sáng trong đôi mắt đã khiến tim anh rung
-                                            động. Mọi thứ xung quanh dường như chậm lại, chỉ để anh có thể ngắm nhìn đôi
-                                            mắt ấy và cảm nhận sự đặc biệt ngay từ cái nhìn đầu tiên.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                            {{--<div class="description-wrapper" data-animation-direction="from-bottom"--}}
+                                 {{--data-animation-delay="250">--}}
+                                {{--<div class="description">--}}
+                                    {{--<div class="neela-style">--}}
+                                        {{--<h4>Em có tin tình yêu từ cái nhìn đầu tiên không?</h4>--}}
+                                        {{--<p>Anh đã từng không tin vào "tình yêu sét đánh". Làm sao có thể thích một người--}}
+                                            {{--không quen biết ngay từ ánh nhìn đầu tiên? Cho đến khi gặp em tại trường--}}
+                                            {{--THPT chuyên Bắc Ninh, vẻ đẹp tươi sáng trong đôi mắt đã khiến tim anh rung--}}
+                                            {{--động. Mọi thứ xung quanh dường như chậm lại, chỉ để anh có thể ngắm nhìn đôi--}}
+                                            {{--mắt ấy và cảm nhận sự đặc biệt ngay từ cái nhìn đầu tiên.</p>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
 
-                        <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">06/2016</span>
-                        </div>
-                        <div class="gallery-container">
-                            <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
-                                 data-animation-delay="250">
-                                <div class="timeline-gallery-del">
-                                    <div class="item text-center">
-                                        <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
-                                        <img
-                                            src="/sonhuyen/anh1.jpg"
-                                            alt="" class="w-100 h-auto"
-                                            style="max-width:500px;"/>
-                                    </div>
-                                </div>
-                            </div>
+                        {{--<div class="year" data-animation-direction="from-top" data-animation-delay="250">--}}
+                            {{--<span class="neela-style">06/2016</span>--}}
+                        {{--</div>--}}
+                        {{--<div class="gallery-container">--}}
+                            {{--<div class="timeline-gallery-wrapper" data-animation-direction="from-left"--}}
+                                 {{--data-animation-delay="250">--}}
+                                {{--<div class="timeline-gallery-del">--}}
+                                    {{--<div class="item text-center">--}}
+                                        {{--<!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->--}}
+                                        {{--<img--}}
+                                            {{--src="/hungchi/anh1.jpg"--}}
+                                            {{--alt="" class="w-100 h-auto"--}}
+                                            {{--style="max-width:500px;"/>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
 
-                            <div class="description-wrapper" data-animation-direction="from-bottom"
-                                 data-animation-delay="250">
-                                <div class="description">
-                                    <div class="neela-style">
-                                        <h4>Làm người yêu anh nhé!</h4>
-                                        <p>Bằng một cách vô tư và nhẹ nhàng nhất, chúng ta bước vào cuộc đời nhau, cùng
-                                            nhau trải qua khoảng thời gian đẹp nhất của tuổi học trò. Anh nghĩ rằng câu
-                                            chuyện của chúng ta sẽ trở nên đặc biệt hơn, không chỉ là bạn bè, mà là
-                                            người yêu của nhau. Đồng ý làm người yêu anh nhé!?
-                                            <br/>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">10/2023</span>
-                        </div>
-                        <div class="gallery-container">
-                            <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
-                                 data-animation-delay="250">
-                                <div class="timeline-gallery-del">
-                                    <div class="item text-center">
-                                        <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
-                                        <img
-                                            src="/sonhuyen/anh2.jpg"
-                                            alt="" class="w-100 h-auto"
-                                            style="max-width:500px;"/>
-                                    </div>
-                                </div>
-                            </div>
+                            {{--<div class="description-wrapper" data-animation-direction="from-bottom"--}}
+                                 {{--data-animation-delay="250">--}}
+                                {{--<div class="description">--}}
+                                    {{--<div class="neela-style">--}}
+                                        {{--<h4>Làm người yêu anh nhé!</h4>--}}
+                                        {{--<p>Bằng một cách vô tư và nhẹ nhàng nhất, chúng ta bước vào cuộc đời nhau, cùng--}}
+                                            {{--nhau trải qua khoảng thời gian đẹp nhất của tuổi học trò. Anh nghĩ rằng câu--}}
+                                            {{--chuyện của chúng ta sẽ trở nên đặc biệt hơn, không chỉ là bạn bè, mà là--}}
+                                            {{--người yêu của nhau. Đồng ý làm người yêu anh nhé!?--}}
+                                            {{--<br/>--}}
+                                        {{--</p>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                        {{--<div class="year" data-animation-direction="from-top" data-animation-delay="250">--}}
+                            {{--<span class="neela-style">10/2023</span>--}}
+                        {{--</div>--}}
+                        {{--<div class="gallery-container">--}}
+                            {{--<div class="timeline-gallery-wrapper" data-animation-direction="from-left"--}}
+                                 {{--data-animation-delay="250">--}}
+                                {{--<div class="timeline-gallery-del">--}}
+                                    {{--<div class="item text-center">--}}
+                                        {{--<!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->--}}
+                                        {{--<img--}}
+                                            {{--src="/hungchi/anh2.jpg"--}}
+                                            {{--alt="" class="w-100 h-auto"--}}
+                                            {{--style="max-width:500px;"/>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
 
-                            <div class="description-wrapper" data-animation-direction="from-bottom"
-                                 data-animation-delay="250">
-                                <div class="description">
-                                    <div class="neela-style">
-                                        <h4>Em sẽ mãi đi cùng anh được chứ?</h4>
-                                        <p>7 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta
-                                            nhận ra được mình cần có nhau. Anh muốn bắt đầu một hành trình mới của chúng
-                                            ta, được làm người đồng hành trọn đời của em, từ nay về sau đi đâu cũng
-                                            được, miễn là đi cùng nhau.
-                                            <br/>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                            {{--<div class="description-wrapper" data-animation-direction="from-bottom"--}}
+                                 {{--data-animation-delay="250">--}}
+                                {{--<div class="description">--}}
+                                    {{--<div class="neela-style">--}}
+                                        {{--<h4>Em sẽ mãi đi cùng anh được chứ?</h4>--}}
+                                        {{--<p>7 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta--}}
+                                            {{--nhận ra được mình cần có nhau. Anh muốn bắt đầu một hành trình mới của chúng--}}
+                                            {{--ta, được làm người đồng hành trọn đời của em, từ nay về sau đi đâu cũng--}}
+                                            {{--được, miễn là đi cùng nhau.--}}
+                                            {{--<br/>--}}
+                                        {{--</p>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
 
-                    <div class="timeline_footer">
-                        <div data-animation-direction="from-top" data-animation-delay="250"><i
-                                class="icon-diamond-ring"></i></div>
-                        <div class="punchline" data-animation-direction="from-bottom" data-animation-delay="250">
-                            <small>This is where our FOREVER BEGINS!</small>
-                        </div>
-                    </div>
+                    {{--<div class="timeline_footer">--}}
+                        {{--<div data-animation-direction="from-top" data-animation-delay="250"><i--}}
+                                {{--class="icon-diamond-ring"></i></div>--}}
+                        {{--<div class="punchline" data-animation-direction="from-bottom" data-animation-delay="250">--}}
+                            {{--<small>This is where our FOREVER BEGINS!</small>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
 
-                </div>
-            </div>
-        </div>
-    </section>
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</section>--}}
     <!-- END TIMELINE SECTION -->
 
     <!-- BEGIN THE WEDDING SECTION -->
     <section id="invitation" class="parallax-background bg-color-overlay padding-divider-top section-divider-bottom-1"
-             style="background-image: url(/sonhuyen/32.jpg);background-position: center center;">
+             style="background-image: url(/hungchi/10.jpeg);background-position: center center;">
         <div class="section-divider-top-1 off-section"></div>
         <!-- The class "section-divider-top-1" can also be applied to the tag <section>. In this case, it was added on a new <div> because the tag <section> have all pseudo elements (::after and ::before) in use. -->
         <div class="container">
@@ -333,69 +331,59 @@
                 <div class="col col-xs-12">
                     <div class="gallery-container gallery-fancybox masonry-gallery">
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/24.jpg"
+                            <a href="/hungchi/1.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/24.jpg"
+                                    src="/hungchi/1.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/25.jpg"
+                            <a href="/hungchi/2.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/25.jpg"
+                                    src="/hungchi/2.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/26.jpg"
+                            <a href="/hungchi/3.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/26.jpg"
+                                    src="/hungchi/3.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/27.jpg"
+                            <a href="/hungchi/4.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/27.jpg"
+                                    src="/hungchi/4.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/28.jpg"
+                            <a href="/hungchi/5.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/28.jpg"
+                                    src="/hungchi/5.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/sonhuyen/29.jpg"
+                            <a href="/hungchi/6.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/sonhuyen/29.jpg"
+                                    src="/hungchi/6.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
-                        @for($i = 1; $i < 24 ;$i++)
+                        @for($i = 1; $i < 14 ;$i++)
                             <div class="grid grid-item" style="display: none">
-                                <a href="/sonhuyen/{{$i}}.jpg"
+                                <a href="/hungchi/{{$i}}.jpeg"
                                    class="fancybox" data-fancybox-group="gall-1">
                                     <img
-                                        src="/sonhuyen/{{$i}}.jpg"
-                                        alt class="img img-responsive">
-                                </a>
-                            </div>
-                        @endfor
-                        @for($i = 30; $i < 36 ;$i++)
-                            <div class="grid grid-item" style="display: none">
-                                <a href="/sonhuyen/{{$i}}.jpg"
-                                   class="fancybox" data-fancybox-group="gall-1">
-                                    <img
-                                        src="/sonhuyen/{{$i}}.jpg"
+                                        src="/hungchi/{{$i}}.jpeg"
                                         alt class="img img-responsive">
                                 </a>
                             </div>
@@ -408,7 +396,7 @@
     <!-- END GALLERY SECTION -->
 
     {{--<section id="invitation" class="parallax-background bg-color-overlay padding-divider-top"--}}
-    {{--style="background-image: url(https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/templates/644000ba4f8e0c7ddf09c709/8d48609ea73a7ec0e74392df8deeddcb.jpg);">--}}
+    {{--style="background-image: url(https://cdn.biihappy.com/ziiweb/website/6567375dfe5105115a07a128/templates/644000ba4f8e0c7ddf09c709/8d48609ea73a7ec0e74392df8deeddcb.jpeg);">--}}
     {{--<div class="section-divider-top-1 off-section"></div>--}}
     {{--<div class="container">--}}
     {{--<div class="row">--}}
@@ -430,7 +418,7 @@
     <!-- BEGIN WEDDING GIFTS SECTION -->
     <div id="events"></div>
     <section id="giftregistry" class="parallax-background section-bg-color"
-             style="padding:135px 0; background-image: url(/sonhuyen/28.jpg);background-position: center center;">
+             style="padding:135px 0; background-image: url(/hungchi/12.jpeg);background-position: center center;">
         <div class="section-divider-top-4 off-section"></div>
         <div class="container">
             <div class="row">
@@ -446,7 +434,7 @@
                             <div class="neela-style">
                                 <div class="d-flex align-items-center event-item-content">
                                     <img
-                                        src="/sonhuyen/22.jpg"
+                                        src="/hungchi/3.jpeg"
                                         alt="LỄ CƯỚI NHÀ NAM" width="100" height="100"
                                         class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
@@ -493,7 +481,7 @@
                             <div class="neela-style">
                                 <div class="d-flex align-items-center event-item-content">
                                     <img
-                                        src="/sonhuyen/22.jpg"
+                                        src="/hungchi/8.jpeg"
                                         alt="LỄ CƯỚI NHÀ NAM" width="100" height="100"
                                         class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">

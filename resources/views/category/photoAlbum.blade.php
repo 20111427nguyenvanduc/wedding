@@ -35,12 +35,12 @@
 <div class="border border-shadow-bottom"></div>
 <div class="album-container owl_wrap">
     <div class="owl-carousel owl-theme">
-        @for($i= 1; $i< 36 ;$i++)
+        @for($i= 1; $i< 14 ;$i++)
             <div class="item gallery-fancybox" data-title="">
-                <a href="/sonhuyen/{{$i}}.jpg"
+                <a href="/hungchi/{{$i}}.jpg"
                    title="" class="fancybox" data-fancybox-group="gall-1">
                     <img class="owl-lazy"
-                         data-src="/sonhuyen/{{$i}}.jpg"
+                         data-src="/hungchi/{{$i}}.jpg"
                          src="">
                 </a>
             </div>
