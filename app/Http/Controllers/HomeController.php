@@ -70,12 +70,12 @@ class HomeController extends Controller
 
 
             $x = 3000;
-            $y = 670;
+            $y = 570;
             $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
 
             $bbox = imagettfbbox(45, 0, $font, $text);
 
-            $x = $bbox[0] + (imagesx($newImage) / 3) - ($bbox[4] / 2) - 230;
+            $x = $bbox[0] + (imagesx($newImage) / 3) - ($bbox[4] / 2) - 430;
 
 //            $y = $bbox[1] + (imagesy($newImage) / 2) - ($bbox[5] / 2) - 5;
 
