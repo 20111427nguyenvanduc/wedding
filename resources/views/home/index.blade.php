@@ -485,9 +485,9 @@
                                         alt="LỄ CƯỚI NHÀ NAM" width="100" height="100"
                                         class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0"/>
                                     <div class="d-inline-block">
-                                        <h3 class="w-100">LỄ THÀNH HÔN TẠI NHÀ GÁI</h3>
+                                        <h3 class="w-100">LỄ VU QUY TẠI NHÀ GÁI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>10:00 31/03/2024</strong></p>
+                                            <strong>14:00 31/03/2024</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
                                             <strong>Khu 1 Hoàng Quốc Việt, Thị Cầu, Bắc Ninh</strong></p>
                                     </div>
