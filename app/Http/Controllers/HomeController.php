@@ -70,16 +70,16 @@ class HomeController extends Controller
 
 
             $x = 3000;
-            $y = 570;
+            $y = 270;
             $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
 
             $bbox = imagettfbbox(45, 0, $font, $text);
 
-            $x = $bbox[0] + (imagesx($newImage) / 3) - ($bbox[4] / 2) - 730;
+            $x = $bbox[0] + (imagesx($newImage) / 3) - ($bbox[4] / 2) - 230;
 
 //            $y = $bbox[1] + (imagesy($newImage) / 2) - ($bbox[5] / 2) - 5;
 
-            imagettftext($newImage, 90, 0, $x, $y, $color, $font, $text);
+            imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
 
             imagesavealpha($newImage, true);
 
