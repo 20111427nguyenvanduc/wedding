@@ -1,8 +1,8 @@
 <script>
     var slidehow_images = [
-        "/sonhuyen/1.jpg",
-        "/sonhuyen/20.jpg",
-        "/sonhuyen/31.jpg",
+        "/hungchi/1.jpeg",
+        "/hungchi/2.jpeg",
+        "/hungchi/3.jpeg",
     ];
     var custom_color = "#747ba9";
     const biicore = {
