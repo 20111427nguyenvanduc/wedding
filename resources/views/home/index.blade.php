@@ -589,7 +589,7 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến chú rể</h4>
                                     <img class="m-auto mb-2" style="max-height: 500px"
-                                         src="/hungchi/QRchure.png">
+                                         src="/hungchi/QRchure.jpeg">
                                     <p>Ngân hàng: <strong>VIETCOMBANK</strong></p>
                                     <p>Tên tài khoản: <strong>Nguyễn Quang Hưng</strong></p>
                                     <p>Số tài khoản: <strong>1037072995</strong></p>
@@ -607,7 +607,7 @@
                                 <div class="neela-style"><span class="h-lines"></span><span class="v-lines"></span>
                                     <h4 class="fs-5">Mừng cưới đến cô dâu</h4>
                                     <img class=" m-auto mb-2" style="max-height: 500px"
-                                         src="/hungchi/QRcodau.png">
+                                         src="/hungchi/QRcodau.jpeg">
                                     <p>Ngân hàng: <strong>TECKCOMBANK</strong></p>
                                     <p>Tên tài khoản: <strong>Nguyễn Linh Chi</strong></p>
                                     <p>Số tài khoản: <strong>1312240827</strong></p>
