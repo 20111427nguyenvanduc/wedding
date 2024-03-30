@@ -516,7 +516,7 @@
                                     </div>
                                     <a href="javascript:void(0)" id="otheramount"
                                        class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                                    <a href="https://www.google.com/maps/place/Nh%C3%A0+V%C4%83n+H%C3%B3a+Khu+1+Th%E1%BB%8B+C%E1%BA%A7u/@21.1941401,106.0856295,17z/data=!3m1!4b1!4m6!3m5!1s0x31350c3fde995a6f:0xbd6e785e6e8b1284!8m2!3d21.1941401!4d106.0856295!16s%2Fg%2F1vqtd83d?entry=ttu"
+                                    <a href="https://www.google.com/maps/place/21%C2%B011'35.6%22N+106%C2%B004'55.5%22E/@21.193212,106.0795001,17z/data=!3m1!4b1!4m4!3m3!8m2!3d21.193212!4d106.082075?entry=ttu"
                                        target="_blank" id="otheramount"
                                        class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                                 </div>
