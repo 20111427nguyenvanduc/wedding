@@ -69,7 +69,7 @@ class HomeController extends Controller
             $color = imagecolorallocate($newImage, 196, 25, 38);
 
 
-            $x = 6000;
+            $x = 4000;
             $y = 970;
             $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
 
