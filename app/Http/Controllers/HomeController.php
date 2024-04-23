@@ -79,7 +79,7 @@ class HomeController extends Controller
 
 //            $y = $bbox[1] + (imagesy($newImage) / 2) - ($bbox[5] / 2) - 5;
 
-            imagettftext($newImage, 45, 0, $x, $y, $color, $font, $text);
+            imagettftext($newImage, 20, 0, $x, $y, $color, $font, $text);
 
             imagesavealpha($newImage, true);
 
