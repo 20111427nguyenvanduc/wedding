@@ -51,7 +51,7 @@ class HomeController extends Controller
             if ($request->has('type') && $request->get('type') != ''){
                 $banner= $request->get('type');
             }else{
-                $banner= '/duyetphuong/thiepmoi1.jpg';
+                $banner= '/duyetphuong/thiepcuoi1.jpg';
 
             }
 
@@ -96,7 +96,7 @@ class HomeController extends Controller
             $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
             $this->views['link'] = '/' . $invitation->body;
         } else {
-            $this->views['invitation'] = '/thiepmoi1.png';
+            $this->views['invitation'] = '/duyetphuong/thiepcuoi1.png';
             $this->views['link'] = '/thiep-moi/';
         }
 
