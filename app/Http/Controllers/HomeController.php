@@ -69,8 +69,8 @@ class HomeController extends Controller
             $color = imagecolorallocate($newImage, 196, 25, 38);
 
 
-            $x = 4000;
-            $y = 970;
+            $x = 2000;
+            $y = 1970;
             $font = public_path('assets/be-vietnam/BeVietnam-Medium.ttf');
 
             $bbox = imagettfbbox(20, 0, $font, $text);
