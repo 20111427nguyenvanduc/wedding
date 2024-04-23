@@ -336,10 +336,18 @@
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/3.jpg"
+                            <a href="/duyetphuong/2.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/3.jpg"
+                                    src="/duyetphuong/2.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
+                            <a href="/duyetphuong/4.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/duyetphuong/4.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
@@ -352,26 +360,18 @@
                             </a>
                         </div>
                         <div class="grid grid-item">
+                            <a href="/duyetphuong/6.jpg"
+                               class="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="/duyetphuong/6.jpg"
+                                    alt class="img img-responsive">
+                            </a>
+                        </div>
+                        <div class="grid grid-item">
                             <a href="/duyetphuong/7.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
                                     src="/duyetphuong/7.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="/duyetphuong/17.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="/duyetphuong/17.jpg"
-                                    alt class="img img-responsive">
-                            </a>
-                        </div>
-                        <div class="grid grid-item">
-                            <a href="/duyetphuong/12.jpg"
-                               class="fancybox" data-fancybox-group="gall-1">
-                                <img
-                                    src="/duyetphuong/12.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
