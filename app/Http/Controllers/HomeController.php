@@ -96,7 +96,7 @@ class HomeController extends Controller
             $this->views['invitation'] = '/uploads/image/thiep-moi-cuoi-' . str_slug($text) . '.png';
             $this->views['link'] = '/' . $invitation->body;
         } else {
-            $this->views['invitation'] = '/duyetphuong/thiepcuoi1.png';
+            $this->views['invitation'] = '/duyetphuong/thiepcuoi1.jpg';
             $this->views['link'] = '/thiep-moi/';
         }
 
