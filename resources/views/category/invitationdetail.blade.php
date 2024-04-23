@@ -10,7 +10,7 @@
     <section id="rsvp" class="section-bg-color">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12" style="text-align: center">
                     <img src="{{$invitation->image}}" alt="">
                 </div>
             </div>
