@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="footer-logo">
-                        Ngọc Hiếu<br>
+                        Xuân Duyệt<br>
                         <img height="30" src="https://andu-ducduy.iwedding.info/album/heart.gif" style="margin: 5px">
                         <br>
-                        Thu Phương
+                        Trịnh Phương
                     </div>
                 </div>
             </div>

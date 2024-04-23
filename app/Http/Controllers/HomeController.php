@@ -29,7 +29,7 @@ class HomeController extends Controller
     {
         $this->views['title'] = "TS&KH";
 
-        $this->views['wishs'] = Wish::where('phone','hieuphuong')->orderBy('created_at', 'DESC')->get();
+        $this->views['wishs'] = Wish::where('phone','duyetphuong')->orderBy('created_at', 'DESC')->get();
 
         return view('home.index', $this->views);
 
@@ -119,7 +119,7 @@ class HomeController extends Controller
 
         $wish = new Wish();
         $wish->name = $request->get('name');
-        $wish->phone = "hieuphuong";
+        $wish->phone = "duyetphuong";
         $wish->body = $request->get('content');
         $wish->save();
 

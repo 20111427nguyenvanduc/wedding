@@ -6,22 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <title>@yield('title','Ngọc Hiếu & Thu Phương')</title>
+    <title>@yield('title','Xuân Duyệt & Trịnh Phương')</title>
     <meta name="description"
-          content="@yield('description', 'Ngọc Hiếu & Thu Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
+          content="@yield('description', 'Xuân Duyệt & Trịnh Phương - Our wedding date: 2024-05-02 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
     <meta name="keywords"
           content="Wedding, Wedding website, Website đám cưới">
-    <meta property="og:site_name" content="Ngọc Hiếu & Thu Phương">
+    <meta property="og:site_name" content="Xuân Duyệt & Trịnh Phương">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="@yield('title','Ngọc Hiếu & Thu Phương')">
+    <meta property="og:title" content="@yield('title','Xuân Duyệt & Trịnh Phương')">
     <meta property="og:description"
-          content="@yield('description', 'Ngọc Hiếu & Thu Phương - Our wedding date: 2024-03-28 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
+          content="@yield('description', 'Xuân Duyệt & Trịnh Phương - Our wedding date: 2024-05-02 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại')">
     <meta property="og:image"
-          content="@yield('image','/hieuphuong/thiepcuoi1.jpg')">
+          content="@yield('image','/duyetphuong/thiepcuoi1.jpg')">
     <meta property="og:url" content={{URL::current()}}>
     <!-- Fav and touch icons -->
     <link rel="icon" type="image/png" sizes="32x32"
-          href="/hieuphuong/thiepcuoi1.jpg">
+          href="/duyetphuong/thiepcuoi1.jpg">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <link rel="manifest"
@@ -60,7 +60,7 @@
                 d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/>
         </svg>
         <div class="preloader-title">
-            Hiếu<br>
+            Duyệt<br>
             <small>&</small>
             <br>
             Phương

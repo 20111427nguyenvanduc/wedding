@@ -1,8 +1,8 @@
 <script>
     var slidehow_images = [
-        "/hieuphuong/1.jpg",
-        "/hieuphuong/11.jpg",
-        "/hieuphuong/25.jpg",
+        "/duyetphuong/1.jpg",
+        "/duyetphuong/11.jpg",
+        "/duyetphuong/8.jpg",
     ];
     var custom_color = "#747ba9";
     const biicore = {
