@@ -51,11 +51,11 @@ class HomeController extends Controller
             if ($request->has('type') && $request->get('type') != ''){
                 $banner= $request->get('type');
             }else{
-                $banner= 'thiepmoi1.png';
+                $banner= '/duyetphuong/thiepmoi1.jpg';
 
             }
 
-            $originalImage = imagecreatefrompng(public_path($banner));
+            $originalImage = imagecreatefromjpeg(public_path($banner));
 
             $width = imagesx($originalImage);
             $height = imagesy($originalImage);
