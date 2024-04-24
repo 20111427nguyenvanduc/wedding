@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-sm-12">
                     <a href="#hero" class="nav-logo d-flex align-items-center h-100"><h1 style="font-size:25px">
-                            DP<span class="main-color"><i class="fa fa-heart"
-                                                          style="margin:5px 5px 5px 5px; color: #e67e7e"></i></span>TP</h1></a>
+                            D<span class="main-color"><i class="fa fa-heart"
+                                                          style="margin:5px 5px 5px 5px; color: #e67e7e"></i></span>P</h1></a>
 
                     <!-- BEGIN MAIN MENU -->
                     <nav class="navbar">
