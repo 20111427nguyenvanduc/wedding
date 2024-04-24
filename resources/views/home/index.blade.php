@@ -465,7 +465,7 @@
                                     </div>
                                     <a href="javascript:void(0)" id="otheramount"
                                        class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                                    <a href=""
+                                    <a href="https://www.google.com/maps/search/?api=1&query=21.1218625,106.0742656"
                                        target="_blank" id="otheramount"
                                        class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                                 </div>
@@ -513,7 +513,7 @@
                                     </div>
                                     <a href="javascript:void(0)" id="otheramount"
                                        class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                                    <a href=""
+                                    <a href="https://www.google.com/maps/place/21%C2%B006'54.6%22N+106%C2%B006'23.9%22E/@21.1151778,106.1066112,20.99z/data=!4m4!3m3!8m2!3d21.1151625!4d106.1066406?entry=ttu"
                                        target="_blank" id="otheramount"
                                        class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                                 </div>
