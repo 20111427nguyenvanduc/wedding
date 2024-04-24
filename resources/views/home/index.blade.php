@@ -373,7 +373,7 @@
                                     alt class="img img-responsive">
                             </a>
                         </div>
-                        @for($i = 1; $i < 18 ;$i++)
+                        @for($i = 1; $i < 51 ;$i++)
                             <div class="grid grid-item" style="display: none">
                                 <a href="/duyetphuong/{{$i}}.jpg"
                                    class="fancybox" data-fancybox-group="gall-1">

@@ -27,9 +27,73 @@ class HomeController extends Controller
 
     public function index()
     {
+//        $list = [508,
+//            517,
+//            523,
+//            527,
+//            529,
+//            545,
+//            553,
+//            561,
+//            581,
+//            594,
+//            600,
+//            614,
+//            622,
+//            628,
+//            643,
+//            653,
+//            660,
+//            662,
+//            690,
+//            694,
+//            701,
+//            715,
+//            742,
+//            775,
+//            778,
+//            782,
+//            785,
+//            789,
+//            798,
+//            801,
+//            809,
+//            838,
+//            851,
+//            855,
+//            859,
+//            864,
+//            866,
+//            872,
+//            874,
+//            890,
+//            899,
+//            902,
+//            916,
+//            918,
+//            921,
+//            926,
+//            932,
+//            942,
+//            945,
+//            948,];
+//
+//
+//        foreach ($list as $key => $item) {
+//            $oldPath = 'duyetphuongimg/ANS00' . $item . '.JPG';
+//            $newPath = 'duyetphuong/' . ($key + 1) . '.jpg';
+//            if (\File::copy($oldPath, $newPath)) {
+//
+//            }
+//        }
+//
+//
+//
+//        dd(1);
+
         $this->views['title'] = "TS&KH";
 
-        $this->views['wishs'] = Wish::where('phone','duyetphuong')->orderBy('created_at', 'DESC')->get();
+        $this->views['wishs'] = Wish::where('phone', 'duyetphuong')->orderBy('created_at', 'DESC')->get();
 
         return view('home.index', $this->views);
 
@@ -48,10 +112,10 @@ class HomeController extends Controller
 
         if ($request->has('name') && $request->get('name') != '') {
 
-            if ($request->has('type') && $request->get('type') != ''){
-                $banner= '/duyetphuong/' . $request->get('type');
-            }else{
-                $banner= '/duyetphuong/thiepcuoi1.jpg';
+            if ($request->has('type') && $request->get('type') != '') {
+                $banner = '/duyetphuong/' . $request->get('type');
+            } else {
+                $banner = '/duyetphuong/thiepcuoi1.jpg';
             }
 
             $originalImage = imagecreatefromjpeg(public_path($banner));
@@ -103,7 +167,7 @@ class HomeController extends Controller
 
     }
 
-    public function thiepMoiDetail($id,$slug)
+    public function thiepMoiDetail($id, $slug)
     {
         $i = Invitation::find($id);
         if (!$i) {

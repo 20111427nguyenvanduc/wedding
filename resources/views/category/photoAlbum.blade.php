@@ -35,7 +35,7 @@
 <div class="border border-shadow-bottom"></div>
 <div class="album-container owl_wrap">
     <div class="owl-carousel owl-theme">
-        @for($i= 1; $i< 18 ;$i++)
+        @for($i= 1; $i< 51 ;$i++)
             <div class="item gallery-fancybox" data-title="">
                 <a href="/duyetphuong/{{$i}}.jpg"
                    title="" class="fancybox" data-fancybox-group="gall-1">
