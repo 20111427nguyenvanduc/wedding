@@ -44,7 +44,7 @@
           rel="stylesheet"/>
     <link href="/template/css/owl.carousel.min.css?v=202311195"
           rel="stylesheet"/>
-    <link href="/template/css/style.css?v=202311195"
+    <link href="/template/css/style.css?v=20231119"
           rel="stylesheet"/>
     <link href="/common/calendar.css?v=202311195" rel="stylesheet">
     @yield("header")
