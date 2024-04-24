@@ -146,7 +146,7 @@
                 <div class="col-md-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
                     <div class="timeline">
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">08/2017</span>
+                            <span class="neela-style">09/2023</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
@@ -155,7 +155,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/duyetphuong/4.jpg"
+                                            src="/duyetphuong/chuyen1.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -166,18 +166,17 @@
                                  data-animation-delay="250">
                                 <div class="description">
                                     <div class="neela-style">
-                                        <h4>Em có tin tình yêu từ cái nhìn đầu tiên không?</h4>
-                                        <p>Anh đã từng không tin vào "tình yêu sét đánh". Làm sao có thể thích một người
-                                            không quen biết ngay từ ánh nhìn đầu tiên? Cho đến khi gặp em vẻ đẹp tươi sáng trong đôi mắt đã khiến tim anh rung
-                                            động. Mọi thứ xung quanh dường như chậm lại, chỉ để anh có thể ngắm nhìn đôi
-                                            mắt ấy và cảm nhận sự đặc biệt ngay từ cái nhìn đầu tiên.</p>
+                                        <h4>Trên đời này có thực sự tồn tại tình bạn khác giới không nhỉ? </h4>
+                                        <p>Anh và em đã từng tự hào mà khoe với mọi người về tình bạn giữa hai chúng ta
+                                            . Nhưng rồi chính anh lại tham lam ,muốn biến em thành người bạn đời của
+                                            mình.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">5/2/2018</span>
+                            <span class="neela-style">10/2/2024</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
@@ -186,7 +185,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/duyetphuong/7.jpg"
+                                            src="/duyetphuong/chuyen2.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -198,10 +197,9 @@
                                 <div class="description">
                                     <div class="neela-style">
                                         <h4>Làm người yêu anh nhé!</h4>
-                                        <p>Bằng một cách vô tư và nhẹ nhàng nhất, chúng ta bước vào cuộc đời nhau, cùng
-                                            nhau trải qua khoảng thời gian đẹp nhất của tuổi học trò. Anh nghĩ rằng câu
-                                            chuyện của chúng ta sẽ trở nên đặc biệt hơn, không chỉ là bạn bè, mà là
-                                            người yêu của nhau. Đồng ý làm người yêu anh nhé!?
+                                        <p>Chúng ta đã đi gần 1 vòng trái đất để mong muốn tìm thấy 1 nửa của mình.
+                                            Nhưng cuối cùng mới nhận ra , 1 nửa phù hợp đó đã luôn ở bên mình bấy lâu
+                                            nay. Làm người yêu anh nhé!
                                             <br/>
                                         </p>
                                     </div>
@@ -209,7 +207,7 @@
                             </div>
                         </div>
                         <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                            <span class="neela-style">5/2024</span>
+                            <span class="neela-style">9/4/2024</span>
                         </div>
                         <div class="gallery-container">
                             <div class="timeline-gallery-wrapper" data-animation-direction="from-left"
@@ -218,7 +216,7 @@
                                     <div class="item text-center">
                                         <!--<a class="hover-img" href="./templates/template/images/timeline-slider-img1.jpg" data-lightbox="gallery-timeline" title="Our Vacations"><span class="btn btn-light btn-sm">+</span></a>-->
                                         <img
-                                            src="/duyetphuong/11.jpg"
+                                            src="/duyetphuong/chuyen3.jpg"
                                             alt="" class="w-100 h-auto"
                                             style="max-width:500px;"/>
                                     </div>
@@ -229,11 +227,11 @@
                                  data-animation-delay="250">
                                 <div class="description">
                                     <div class="neela-style">
-                                        <h4>Em sẽ mãi đi cùng anh được chứ?</h4>
-                                        <p>7 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta
-                                            nhận ra được mình cần có nhau. Anh muốn bắt đầu một hành trình mới của chúng
-                                            ta, được làm người đồng hành trọn đời của em, từ nay về sau đi đâu cũng
-                                            được, miễn là đi cùng nhau.
+                                        <h4>Chúng ta hãy đi đến cuối con đường em nhé!
+                                        </h4>
+                                        <p>Hơn 16 năm cho 1 tình bạn. 2 tháng yêu xa là quãng thời gian thử thách cho cả
+                                            2 đứa. Khi a đã sẵn sàng và e đủ tin tưởng, sẽ thật tuyệt nếu chúng ta về
+                                            chung một nhà. Làm vợ anh nhé!
                                             <br/>
                                         </p>
                                     </div>
@@ -437,7 +435,7 @@
                                     <div class="d-inline-block">
                                         <h3 class="w-100">LỄ THÀNH HÔN TẠI NHÀ TRAI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>14:00 2024-05-02 Dương lịch</strong></p>
+                                            <strong>15:00 2024-05-02 Dương lịch</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
                                             <strong>Xóm Chùa, thôn Hộ Vệ , xã Lạc vệ , huyện Tiên Du, Bắc Ninh
                                             </strong></p>
@@ -485,7 +483,7 @@
                                     <div class="d-inline-block">
                                         <h3 class="w-100">LỄ VU QUY TẠI NHÀ GÁI</h3>
                                         <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i>
-                                            <strong>Tức 12h:00 02/05/2024 Dương lịch</strong></p>
+                                            <strong>Tức 13h:00 02/05/2024 Dương lịch</strong></p>
                                         <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i>
                                             <strong>Đội 1 ,thôn An Động , xã Lạc vệ , huyện Tiên Du, Bắc Ninh
                                             </strong></p>
