@@ -37,10 +37,10 @@
     <div class="owl-carousel owl-theme">
         @for($i= 51; $i< 68 ;$i++)
             <div class="item gallery-fancybox" data-title="">
-                <a href="/duyetphuong/{{$i}}.jpg"
+                <a href="/duyetphuong/{{$i}}.jpeg"
                    title="" class="fancybox" data-fancybox-group="gall-1">
                     <img class="owl-lazy"
-                         data-src="/duyetphuong/{{$i}}.jpg"
+                         data-src="/duyetphuong/{{$i}}.jpeg"
                          src="">
                 </a>
             </div>

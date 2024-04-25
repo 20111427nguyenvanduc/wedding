@@ -326,59 +326,59 @@
                 <div class="col col-xs-12">
                     <div class="gallery-container gallery-fancybox masonry-gallery">
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/51.jpg"
+                            <a href="/duyetphuong/51.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/51.jpg"
+                                    src="/duyetphuong/51.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/52.jpg"
+                            <a href="/duyetphuong/52.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/52.jpg"
+                                    src="/duyetphuong/52.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/54.jpg"
+                            <a href="/duyetphuong/54.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/54.jpg"
+                                    src="/duyetphuong/54.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/55.jpg"
+                            <a href="/duyetphuong/55.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/55.jpg"
+                                    src="/duyetphuong/55.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/56.jpg"
+                            <a href="/duyetphuong/56.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/56.jpg"
+                                    src="/duyetphuong/56.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/57.jpg"
+                            <a href="/duyetphuong/57.jpeg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/57.jpg"
+                                    src="/duyetphuong/57.jpeg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         @for($i = 51; $i < 68 ;$i++)
                             <div class="grid grid-item" style="display: none">
-                                <a href="/duyetphuong/{{$i}}.jpg"
+                                <a href="/duyetphuong/{{$i}}.jpeg"
                                    class="fancybox" data-fancybox-group="gall-1">
                                     <img
-                                        src="/duyetphuong/{{$i}}.jpg"
+                                        src="/duyetphuong/{{$i}}.jpeg"
                                         alt class="img img-responsive">
                                 </a>
                             </div>
