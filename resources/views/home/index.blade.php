@@ -326,54 +326,54 @@
                 <div class="col col-xs-12">
                     <div class="gallery-container gallery-fancybox masonry-gallery">
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/1.jpg"
+                            <a href="/duyetphuong/51.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/1.jpg"
+                                    src="/duyetphuong/51.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/2.jpg"
+                            <a href="/duyetphuong/52.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/2.jpg"
+                                    src="/duyetphuong/52.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/4.jpg"
+                            <a href="/duyetphuong/54.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/4.jpg"
+                                    src="/duyetphuong/54.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/5.jpg"
+                            <a href="/duyetphuong/55.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/5.jpg"
+                                    src="/duyetphuong/55.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/6.jpg"
+                            <a href="/duyetphuong/56.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/6.jpg"
+                                    src="/duyetphuong/56.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
                         <div class="grid grid-item">
-                            <a href="/duyetphuong/7.jpg"
+                            <a href="/duyetphuong/57.jpg"
                                class="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="/duyetphuong/7.jpg"
+                                    src="/duyetphuong/57.jpg"
                                     alt class="img img-responsive">
                             </a>
                         </div>
-                        @for($i = 1; $i < 51 ;$i++)
+                        @for($i = 67; $i < 68 ;$i--)
                             <div class="grid grid-item" style="display: none">
                                 <a href="/duyetphuong/{{$i}}.jpg"
                                    class="fancybox" data-fancybox-group="gall-1">
