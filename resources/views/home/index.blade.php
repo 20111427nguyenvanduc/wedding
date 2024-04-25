@@ -373,7 +373,17 @@
                                     alt class="img img-responsive">
                             </a>
                         </div>
-                        @for($i = 67; $i < 68 ;$i--)
+                        @for($i = 51; $i < 68 ;$i++)
+                            <div class="grid grid-item" style="display: none">
+                                <a href="/duyetphuong/{{$i}}.jpg"
+                                   class="fancybox" data-fancybox-group="gall-1">
+                                    <img
+                                        src="/duyetphuong/{{$i}}.jpg"
+                                        alt class="img img-responsive">
+                                </a>
+                            </div>
+                        @endfor
+                        @for($i = 1; $i < 51 ;$i++)
                             <div class="grid grid-item" style="display: none">
                                 <a href="/duyetphuong/{{$i}}.jpg"
                                    class="fancybox" data-fancybox-group="gall-1">

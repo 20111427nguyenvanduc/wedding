@@ -35,7 +35,7 @@
 <div class="border border-shadow-bottom"></div>
 <div class="album-container owl_wrap">
     <div class="owl-carousel owl-theme">
-        @for($i= 67; $i< 68 ;$i--)
+        @for($i= 51; $i< 68 ;$i++)
             <div class="item gallery-fancybox" data-title="">
                 <a href="/duyetphuong/{{$i}}.jpg"
                    title="" class="fancybox" data-fancybox-group="gall-1">
@@ -45,6 +45,16 @@
                 </a>
             </div>
         @endfor
+            @for($i= 1; $i< 51 ;$i++)
+                <div class="item gallery-fancybox" data-title="">
+                    <a href="/duyetphuong/{{$i}}.jpg"
+                       title="" class="fancybox" data-fancybox-group="gall-1">
+                        <img class="owl-lazy"
+                             data-src="/duyetphuong/{{$i}}.jpg"
+                             src="">
+                    </a>
+                </div>
+            @endfor
     </div>
     <span class="si-icon action_btn dark large owl-prev" data-width="28" data-height="28" data-event="mouseover"
           data-icon-name="previous">
